@@ -47,7 +47,7 @@ Now that you have the copy on your own account, let's download the entire projec
 
 2️⃣ Click on the button looking like a `double square` (highlighted in red below) to copy the URL.
 
-![Screenshot 2023-06-14 at 12 57 13](https://github.com/quine-sh/Your-First-Contribution/assets/83458751/659191e5-fd84-4d72-86f5-bfd3cbf3a0c5)
+<img width="411" alt="Screenshot 2023-05-29 at 11 47 49" src="https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/4a0f5bbc-854a-4df0-845d-fa8266414264">
 
 3️⃣ Open your terminal.
 
