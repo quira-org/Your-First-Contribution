@@ -37,7 +37,7 @@ First, click on `⭐️ star` in the right corner (to show some love 🫶💁‍
 
 Fork means you will create a copy of this repository in your own GitHub account. 💪
 
-<img width="1281" alt="Screenshot 2023-05-29 at 11 48 15" src="https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/b059d2f4-dc81-4969-a29f-c8efd42f835e">
+<img width="902" alt="Screenshot 2023-06-14 at 12 57 42" src="https://github.com/quine-sh/Your-First-Contribution/assets/83458751/18a56d08-c99d-4b17-b019-1c3147e4a0f8">
 
 Now that you have the copy on your own account, let's download the entire project on your local computer!
 
@@ -47,7 +47,7 @@ Now that you have the copy on your own account, let's download the entire projec
 
 2️⃣ Click on the button looking like a `double square` (highlighted in red below) to copy the URL.
 
-<img width="411" alt="Screenshot 2023-05-29 at 11 47 49" src="https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/4a0f5bbc-854a-4df0-845d-fa8266414264">
+![Screenshot 2023-06-14 at 12 57 13](https://github.com/quine-sh/Your-First-Contribution/assets/83458751/659191e5-fd84-4d72-86f5-bfd3cbf3a0c5)
 
 3️⃣ Open your terminal.
 
@@ -138,10 +138,7 @@ In "GitHub language", this is called **"pulling a request"** because you essenti
 
 3️⃣ Click on `Open pull request`
 
-![Screenshot 2023-06-09 at 12 18 06](https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/06737cdf-5e77-456b-9dd8-5a6fe12b0769)
-*This is an example of pulling a request for another repo so don't worry about the name being different*
-
---
+![Screenshot 2023-06-14 at 12 56 13](https://github.com/quine-sh/Your-First-Contribution/assets/83458751/ea77c72f-6e18-4bf8-8ddf-9837b71c4d2c)
 
 4️⃣ You will then title your pull request with your *"Name Surname - adding my part of the story"* and you can leave the comment section blank.
 
