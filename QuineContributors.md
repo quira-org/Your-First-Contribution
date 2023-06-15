@@ -7,6 +7,7 @@
                 <a href="https://github.com/fernandezbaptiste>
                     <br />
                     <sub><b>Baptiste Fernandez</b></sub>
+                    <sub>I like pineapples</sub>
                     <sub>👯‍♀️</sub>
                 </a> 
             </td>
