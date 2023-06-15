@@ -7,6 +7,7 @@
                 <a href="https://github.com/fernandezbaptiste>
                     <br />
                     <sub><b>Baptiste Fernandez</b></sub>
+                    <sub><b>👯‍♀️</b></sub>
                 </a> 
             </td>
             <td align="center">
