@@ -70,19 +70,18 @@ The entire project is now on your computer!
 
 Here you add your name (it can be a nickname is you want to!) and add your github picture (only if you want to). 
 
-To do this copy the below code and adjust it accordingly:
+3️⃣  To do this copy the below code and adjust it accordingly:
 
 ```
-<td align="center">
-                <a href="https://github.com/fernandezbaptiste>
+            <td align="center">
+                <a href="https://github.com/YOURUSERNAME">
+                    <sub><b>YOUR NAME OR NICKNAME</b></sub>
                     <br />
-                    <sub><b>Baptiste Fernandez</b></sub>
                 </a> 
             </td>
 ```
-Note: Every row can have 
 
-3️⃣ Think of something that would make sense in the storyline and write one or two sentences.
+*Note: We limit every to have only 8 profiles so if the current row already has the maximum amount, create a new `<tr> </tr>` and drop your code in between these. 
 
 4️⃣ When done, save the file!
 
