@@ -4,16 +4,6 @@
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://github.com/fernandezbaptiste>
-                    <br />
-                    <sub><b>Baptiste Fernandez</b></sub>
-                    <sub>I like pineapples</sub>
-                    <sub>👯‍♀️</sub>
-                    <p>This is a paragraph of text 0</p>
-                </a> 
-                <p>This is a paragraph of text.</p>
-            </td>
-            <td align="center">
                 <a href="https://github.com/fernandezbaptiste">
                     <br />
                     <sub><b>Baptiste Fernandez</b></sub>
