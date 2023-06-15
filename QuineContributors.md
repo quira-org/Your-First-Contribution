@@ -4,8 +4,9 @@
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://github.com/fernandezbaptiste>
+                <a href="https://github.com/fernandezbaptiste">
                     <sub><b>Baptiste Fernandez</b></sub>
+                    <br />
                 </a> 
             </td>
             <td align="center">
@@ -14,10 +15,16 @@
                     <br />
                 </a> 
             </td>
-            <td align="center">
+             <td align="center">
                 <a href="https://github.com/fernandezbaptiste">
-                    <br />
                     <sub><b>Baptiste Fernandez</b></sub>
+                    <br />
+                </a> 
+            </td>
+             <td align="center">
+                <a href="https://github.com/fernandezbaptiste">
+                    <sub><b>Baptiste Fernandez</b></sub>
+                    <br />
                 </a> 
             </td>
         </tr>
