@@ -4,8 +4,7 @@
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://github.com/fernandezbaptiste">
-                    <br />
+                <a href="https://github.com/fernandezbaptiste>
                     <sub><b>Baptiste Fernandez</b></sub>
                 </a> 
             </td>
