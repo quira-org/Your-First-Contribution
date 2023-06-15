@@ -10,8 +10,8 @@
             </td>
             <td align="center">
                 <a href="https://github.com/fernandezbaptiste">
-                    <br />
                     <sub><b>Baptiste Fernandez</b></sub>
+                    <br />
                 </a> 
             </td>
             <td align="center">
