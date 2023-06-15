@@ -13,8 +13,8 @@ Now when contributing, we want to:
 ### Now, what does that mean in normal language? 🙈
 
 1. Fork ➡️ Make a **copy of the project** on your GitHub account 
-2. Clone ➡️ **Download the project** from GitHub on your computer
-3. Edit ➡️ That's self-explanatory - here you will **add your name, GitHub pic and something to know about you** 
+2. Clone ➡️ **Download the project** from GitHub to your computer
+3. Edit ➡️ That's self-explanatory - here you will **add your name to our contributors file** 
 4. Push ➡️ **Update and send the changes** to your online GitHub repository
 5. Pull ➡️ **Send your contribution to the original GitHub repository**
 
@@ -70,7 +70,7 @@ The entire project is now on your computer!
 
 Here you add your name (it can be a nickname if you want to!). 
 
-3️⃣  To do this copy the below code and adjust it accordingly:
+3️⃣  Copy the below code and adjust it accordingly:
 
 ```
             <td align="center">
@@ -145,7 +145,7 @@ In "GitHub language", this is called **"pulling a request"** because you essenti
 
 ![Screenshot 2023-06-14 at 12 56 13](https://github.com/quine-sh/Your-First-Contribution/assets/83458751/ea77c72f-6e18-4bf8-8ddf-9837b71c4d2c)
 
-4️⃣ You will then title your pull request with your *"Name Surname - adding my part of the story"* and you can leave the comment section blank.
+4️⃣ You will then title your pull request with your *"Name Surname"* and you can leave the comment section blank.
 
 5️⃣ Click `Create pull request` and that's it you have made your first contribution!! 🚀👯‍♀️
 
@@ -159,7 +159,7 @@ You may be thinking, I thought I would be taken to the repository straight away 
 
 All in all, contributions happen in this way where the maintainer(s) of the original repository (aka the people that are in charge of the repo) check your contributions and either end up accepting them or giving you feedback on what changes they need from you. 
 
-So sit back and relax as you have just done everything you needed!
+So sit back and relax as you have just done everything you needed! ☀️🧘‍♂️🎉
 
 We know it is always super tough the first time and it's really cool you got to this point - so proud of you! 👯‍♀️💚
 
