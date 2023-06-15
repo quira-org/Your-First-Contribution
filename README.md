@@ -14,7 +14,7 @@ Now when contributing, we want to:
 
 1. Fork ➡️ Make a **copy of the project** on your GitHub account 
 2. Clone ➡️ **Download the project** from GitHub on your computer
-3. Edit ➡️ That's self-explanatory - here you will **help us write the Greatest Story the World has Ever heard!! 🔥** 
+3. Edit ➡️ That's self-explanatory - here you will **add your name, GitHub pic and something to know about you** 
 4. Push ➡️ **Update and send the changes** to your online GitHub repository
 5. Pull ➡️ **Send your contribution to the original GitHub repository**
 
@@ -66,15 +66,21 @@ The entire project is now on your computer!
 
 1️⃣ On your terminal, make sure that you are in the project (or directory 😉) by running: `cd Your-First-Contribution`.
 
-2️⃣ Open the `OurStory.txt` file in a text editor or on your favourite IDE (aka VS Code, Atom, PyCharm, Sublime etc). 
+2️⃣ Open the `QuineContributors.md` file in a text editor or on your favourite IDE (aka VS Code, Atom, PyCharm, Sublime etc). 
 
-Here you will see the project which you will contribute to. 💪
+Here you add your name (it can be a nickname is you want to!) and add your github picture (only if you want to). 
 
-The project is ***a story told by many developers around the planet - one contribution at a time! 🎙️***
+To do this copy the below code and adjust it accordingly:
 
-This means each sentence you are reading was written in the past by different coders out there. 👩‍💻
-
-And now it's your turn to add the next sentence! 👩‍🎨
+```
+<td align="center">
+                <a href="https://github.com/fernandezbaptiste>
+                    <br />
+                    <sub><b>Baptiste Fernandez</b></sub>
+                </a> 
+            </td>
+```
+Note: Every row can have 
 
 3️⃣ Think of something that would make sense in the storyline and write one or two sentences.
 
@@ -150,7 +156,7 @@ Congraaaaaaaats! ⭐️
 
 You may be thinking, I thought I would be taken to the repository straight away but I'm left with the status of the pull request?
 
-**YES**, this is because now we will review the best sentences added and accept the ones we think are cool and relevant to the story! 
+**YES**, this is we now need to accept your pull request (this is called **merging a pull request**).
 
 All in all, contributions happen in this way where the maintainer(s) of the original repository (aka the people that are in charge of the repo) check your contributions and either end up accepting them or giving you feedback on what changes they need from you. 
 
