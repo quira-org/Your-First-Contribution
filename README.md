@@ -68,14 +68,14 @@ The entire project is now on your computer!
 
 2️⃣ Open the `QuineContributors.md` file in a text editor or on your favourite IDE (aka VS Code, Atom, PyCharm, Sublime etc). 
 
-Here you add your name (it can be a nickname is you want to!) and add your GitHub picture (only if you want to). 
+Here you add your name (it can be a nickname if you want to!). 
 
 3️⃣  To do this copy the below code and adjust it accordingly:
 
 ```
             <td align="center">
                 <a href="https://github.com/YOURUSERNAME">
-                    <sub><b>YOUR NAME OR NICKNAME</b></sub>
+                    <sub><b>YOUR NAME</b></sub>
                     <br />
                 </a> 
             </td>
@@ -87,7 +87,7 @@ Here you add your name (it can be a nickname is you want to!) and add your GitHu
 
 ## 4. Upload your changes to your online GitHub repo
 
-OK, we got some changes done, now we need to upload them to our GitHub account.
+OK, we got some changes done, now we need to upload them to your GitHub account.
 
 In summary here we want to:
 - ➕ add all the changes onto git
@@ -155,7 +155,7 @@ Congraaaaaaaats! ⭐️
 
 You may be thinking, I thought I would be taken to the repository straight away but I'm left with the status of the pull request?
 
-**YES**, this is we now need to accept your pull request (this is called **merging a pull request**).
+**YES**, this is because we now need to accept your pull request (it is also called **merging a pull request**).
 
 All in all, contributions happen in this way where the maintainer(s) of the original repository (aka the people that are in charge of the repo) check your contributions and either end up accepting them or giving you feedback on what changes they need from you. 
 
