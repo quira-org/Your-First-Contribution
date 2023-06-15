@@ -81,7 +81,7 @@ Here you add your name (it can be a nickname if you want to!).
             </td>
 ```
 
-*Note: We limit 8 profiles per row, so if the current row already has the maximum amount, create a new `<tr> YOUR CODE SNIPPET HERE </tr>` and drop your code in between these. 
+*Note: We limit 8 profiles per row, so if the current row already has the maximum amount, create a new `<tr> YOUR CODE SNIPPET HERE </tr>`. 
 
 4️⃣ When done, save the file!
 
