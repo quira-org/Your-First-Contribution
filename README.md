@@ -68,7 +68,7 @@ The entire project is now on your computer!
 
 2️⃣ Open the `QuineContributors.md` file in a text editor or on your favourite IDE (aka VS Code, Atom, PyCharm, Sublime etc). 
 
-Here you add your name (it can be a nickname is you want to!) and add your github picture (only if you want to). 
+Here you add your name (it can be a nickname is you want to!) and add your GitHub picture (only if you want to). 
 
 3️⃣  To do this copy the below code and adjust it accordingly:
 
@@ -81,7 +81,7 @@ Here you add your name (it can be a nickname is you want to!) and add your githu
             </td>
 ```
 
-*Note: We limit every to have only 8 profiles so if the current row already has the maximum amount, create a new `<tr> </tr>` and drop your code in between these. 
+*Note: We limit 8 profiles per row, so if the current row already has the maximum amount, create a new `<tr> YOUR CODE SNIPPET HERE </tr>` and drop your code in between these. 
 
 4️⃣ When done, save the file!
 
