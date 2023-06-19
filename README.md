@@ -29,6 +29,9 @@ You reeeeeady?? Let's do it - we got this ☕️🫶
 
 Requirement: If not already done, download Git [here](https://git-scm.com/downloads).
 
+ [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+ ![Simple Photocentric Music Mix YouTube Thumbnail](https://github.com/quine-sh/Your-First-Contribution/assets/83458751/d5f963df-f4fc-403e-a445-7a17abff9079)
+
  - - - -
 
 ## 1. Fork the project
