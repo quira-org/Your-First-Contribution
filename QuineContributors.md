@@ -15,6 +15,12 @@
                     <br />
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/alonsosteward20">
+                    <sub><b>Alonso Steward</b></sub>
+                    <br />
+                </a> 
+            </td>
         </tr>
 
             
