@@ -35,8 +35,6 @@ Requirement: If not already done, download Git [here](https://git-scm.com/downlo
     </a>
 </p>
 
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/66ad5ce543ff42da930a03a12dd8db46?sid=190d26b3-5a64-479d-93b7-c9655c45fa25" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
  - - - -
 
 ## 1. Fork the project
