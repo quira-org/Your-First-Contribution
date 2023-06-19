@@ -1,7 +1,5 @@
-
 # List of the Wonderful Quine Contributors ⬇️🚀👯‍♀️
-<td align="center">
-               
+             
 <table>
     <tbody>
         <tr>
@@ -17,6 +15,7 @@
                     <br />
                 </a> 
             </td>
+            <td align="center">
                 <a href="https://github.com/gerdaespinosa">
                     <sub><b>Gerda Espinosa</b></sub>
                     <br />
