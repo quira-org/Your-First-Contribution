@@ -30,7 +30,7 @@ You reeeeeady?? Let's do it - we got this ☕️🫶
 Requirement: If not already done, download Git [here](https://git-scm.com/downloads).
 
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
+    <a href="https://www.loom.com/share/66ad5ce543ff42da930a03a12dd8db46?sid=cf6e70ac-e2b2-4782-a4e1-a06e3a960212">
         <img src="https://user-images.githubusercontent.com/83458751/246856271-d5f963df-f4fc-403e-a445-7a17abff9079.png"/>
     </a>
 </p>
