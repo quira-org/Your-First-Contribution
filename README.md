@@ -29,7 +29,11 @@ You reeeeeady?? Let's do it - we got this ☕️🫶
 
 Requirement: If not already done, download Git [here](https://git-scm.com/downloads).
 
- ![Simple Photocentric Music Mix YouTube Thumbnail](https://github.com/quine-sh/Your-First-Contribution/assets/83458751/d5f963df-f4fc-403e-a445-7a17abff9079)
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
+        <img src="https://user-images.githubusercontent.com/83458751/246856271-d5f963df-f4fc-403e-a445-7a17abff9079.png"/>
+    </a>
+</p>
 
  - - - -
 
