@@ -33,11 +33,9 @@ For the 95% of us that prefer videos instead of text, find the below video to as
 
 <p align="center">
     <a href="https://youtu.be/_wQ6lsw1JWc">
-        <img src="https://user-images.githubusercontent.com/83458751/246856271-d5f963df-f4fc-403e-a445-7a17abff9079.png"/>
+        <img src="https://user-images.githubusercontent.com/83458751/247156334-8e0b902e-4c51-4342-8576-bf7af40e3825.png"/>
     </a>
 </p>
-
-![4](https://github.com/quine-sh/Your-First-Contribution/assets/83458751/8e0b902e-4c51-4342-8576-bf7af40e3825)
 
  - - - -
 
