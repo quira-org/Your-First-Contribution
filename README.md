@@ -176,4 +176,4 @@ We know it is always super tough the first time and it's really cool you got to 
  
 If you are ready to start contributing to other projects, we have compiled a list of projects with easy issues you can get started on. Check out the list of projects on [quine.sh](https://quine.sh/?utm_source=github&utm_campaign=first_time_contribution)🚀
 
-If you haven't yet, you could join our [discord team](https://discord.com/invite/ChAuP3SC5H/?utm_source=github&utm_campaign=first_time_contribution) if you need any help or have any questions. 🫶
+If you haven't yet, you could join our [discord server](https://discord.com/invite/ChAuP3SC5H/?utm_source=github&utm_campaign=first_time_contribution) if you need any help or have any questions. 🫶
