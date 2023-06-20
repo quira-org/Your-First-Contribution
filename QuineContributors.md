@@ -16,7 +16,8 @@
                 </a> 
             </td>
         </tr>
-        <p> Inspired by X </p>
+
+<p> Inspired by X </p>
 
             
             
