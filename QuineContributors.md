@@ -1,4 +1,4 @@
-# Quine Contributors ⬇🚀👯‍♀️
+# Quine Contributors 🚀👯‍♀️
              
 <table>
     <tbody>
@@ -16,6 +16,7 @@
                 </a> 
             </td>
         </tr>
+        <p> Inspired by X </p>
 
             
             
