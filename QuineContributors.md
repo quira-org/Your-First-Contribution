@@ -1,4 +1,4 @@
-# List of the Wonderful Quine Contributors ⬇️🚀👯‍♀️
+# Quine Contributors ⬇🚀👯‍♀️
              
 <table>
     <tbody>
