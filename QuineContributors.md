@@ -1,5 +1,5 @@
 # Quine Contributors 🚀👯‍♀️
-             
+
 <table>
     <tbody>
         <tr>
@@ -27,18 +27,16 @@
                     <br />
                 </a> 
             </td>
-        </tr>
-                <tr>
             <td align="center">
                 <a href="https://github.com/ranjanmangla1">
                     <sub><b>Ranjan Mangla</b></sub>
                     <br />
                 </a> 
             </td>
+             <td align="center">
+                <a href="https://github.com/imaxmayur">
+                    <sub><b>Mayur Gosavi</b></sub>
+                    <br />
+                </a> 
+            </td>
         </tr>
-
-
-
-            
-            
-           
