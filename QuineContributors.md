@@ -23,7 +23,7 @@
             </td>
                         <td align="center">
                 <a href="https://github.com/YOURUSERNAME">
-                    <sub><b>NAMAN KUMAR</b></sub>
+                    <sub><b>NAMAN KUMAR GUPTA</b></sub>
                     <br />
                 </a> 
             </td>
