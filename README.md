@@ -33,7 +33,7 @@ For the 95% of us that prefer videos instead of text, find the below video to as
 
 <p align="center">
     <a href="https://youtu.be/_wQ6lsw1JWc">
-        <img src="https://user-images.githubusercontent.com/83458751/247156334-8e0b902e-4c51-4342-8576-bf7af40e3825.png"/>
+        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--HdoAUOtP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/atsb00bvetaet8qkpp1a.png"/>
     </a>
 </p>
 
