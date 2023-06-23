@@ -9,8 +9,6 @@
                     <br />
                 </a> 
             </td>
-        </tr>
-        <tr>
             <td align="center">
                 <a href="https://github.com/gerdaespinosa">
                     <sub><b>Gerda Espinosa</b></sub>
