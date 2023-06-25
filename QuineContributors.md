@@ -17,7 +17,7 @@
             </td>
             <td align="center">
                 <a href="https://github.com/ChildEater69">
-                    <sub><b>YOUR NAME</b></sub>
+                    <sub><b>Avdhesh Kumar Sharma 😊</b></sub>
                     <br />
                 </a> 
             </td>
