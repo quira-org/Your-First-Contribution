@@ -50,5 +50,14 @@
                 </a>
             </td>
         </tr>
+
+        <tr>
+            <td align="center">
+                <a href="https://github.com/eshan-one">
+                    <sub><b>Eshan Shikarkhane</b></sub>
+                    <br />
+                </a> 
+            </td>
+        </tr>
     </tbody>
 </table>
