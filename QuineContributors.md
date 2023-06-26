@@ -64,5 +64,13 @@
                 </a>
             </td>
         </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/chitimbwasc">
+                    <sub><b>Christopher Chitimbwa</b></sub>
+                    <br />
+                </a> 
+            </td>
+        </tr>
     </tbody>
 </table>
