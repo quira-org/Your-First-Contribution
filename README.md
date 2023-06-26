@@ -89,8 +89,9 @@ Here you add your name (it can be a nickname if you want to!).
             </td>
 ```
 
-*Note: We limit 8 profiles per row, so if the current row already has the maximum amount, create a new `<tr> YOUR CODE SNIPPET HERE </tr>` (we have seen many contributors add the <tr></tr>  when it was not necessary, so look at the code closely before you are sure you need to add it). 
-*Note 2: Look also closely at how past contributors have pasted their code. Respect the indentation (aka the spacing between each line of code) to make sure the code is not messy. 🫶
+*Note: We limit 8 profiles per row, so if the current row already has the maximum amount, create a new `<tr> YOUR CODE SNIPPET HERE </tr>`. We have seen in the past many contributors add the `<tr>  </tr>`  when it was not necessary, so please look at the code closely before you are sure you need to add it. 
+
+*Note 2: Look closely at how past contributors have pasted their code. Respect the indentation (aka the spacing between each line of code) to make sure the code is not messy. 🫶
 
 4️⃣ When done, save the file!
 
