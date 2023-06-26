@@ -15,6 +15,12 @@
                     <br />
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ChildEater69">
+                    <sub><b>Avdhesh Kumar Sharma 😊</b></sub>
+                    <br />
+                </a> 
+            </td>
              <td align="center">
                 <a href="https://github.com/s2ahil">
                     <sub><b>Sahil Pradhan😎</b></sub>
