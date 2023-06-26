@@ -69,6 +69,11 @@
                     <br />
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/VeLoct84">
+                    <sub><b>Lokman Ahmad</b></sub>
+                    <br />
+                </a>
         </tr>
         <tr>
             <td align="center">
