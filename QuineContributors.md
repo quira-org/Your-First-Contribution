@@ -75,6 +75,9 @@
                     <br />
                 </a>
         </tr>
+            <td align="center">
+                <a href="https://github.com/eshan-one">
+                    <sub><b>Eshan Shikarkhane</b></sub>
         <tr>
             <td align="center">
                 <a href="https://github.com/chitimbwasc">
