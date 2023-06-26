@@ -49,6 +49,12 @@
                     <br />
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/ankittmeena">
+                    <sub><b>Ankit</b></sub>
+                    <br />
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
