@@ -78,5 +78,13 @@
                 </a> 
             </td>
         </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/Divewitholeg">
+                    <sub><b>Oleg Rybnikov</b></sub>
+                    <br />
+                </a> 
+            </td>
+        </tr>
     </tbody>
 </table>
