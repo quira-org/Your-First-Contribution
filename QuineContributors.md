@@ -105,6 +105,12 @@
                     <br />
                 </a> 
             </td>
-        <tr>
+            <td align = "center">
+                <a href = "https://github.com/shiv-droid">
+                    <sub><b>Shivanshu Tripathi</b></sub>
+                    <br />
+                </a>
+            </td>        
+        </tr>
     </tbody>
 </table>
