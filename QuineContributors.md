@@ -50,5 +50,13 @@
                 </a>
             </td>
         </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/davidjosipovic">
+                    <sub><b>David Josipovic</b></sub>
+                    <br />
+                </a> 
+            </td>
+        </tr>
     </tbody>
 </table>
