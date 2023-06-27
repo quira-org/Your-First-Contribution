@@ -117,6 +117,12 @@
                     <br />
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/ronank7z">
+                    <sub><b>Ronan Kitten &#127470;</b></sub>
+                    <br />
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
