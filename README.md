@@ -82,7 +82,7 @@ Here you add your name (it can be a nickname if you want to!).
 
 ```
             <td align="center">
-                <a href="https://github.com/YOURUSERNAME">
+                <a href="https://github.com/YOUR_USERNAME">
                     <sub><b>YOUR NAME</b></sub>
                     <br />
                 </a> 
