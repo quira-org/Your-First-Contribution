@@ -118,5 +118,13 @@
                 </a> 
             </td>
         </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/navilindo">
+                    <sub><b>Navilindo Hassan</b></sub>
+                    <br />
+                </a>
+            </td>
+        </tr>
     </tbody>
 </table>
