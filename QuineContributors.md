@@ -145,8 +145,6 @@
                     <br />
                 </a> 
             </td>
-        </tr>
-        <tr>
             <td align="center">
                 <a href="https://github.com/AlexBenavente">
                     <sub><b>Alex Benavente</b></sub>
@@ -159,6 +157,8 @@
                     <br />
                 </a>
             </td>
+        </tr>
+        <tr>
             <td align="center">
                 <a href="https://github.com/anrgsh33">
                     <sub><b>Anurag Singh</b></sub>
