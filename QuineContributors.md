@@ -7,7 +7,7 @@
                 <a href="https://github.com/fernandezbaptiste">
                     <sub><b>Baptiste Fernandez</b></sub>
                     <br />
-                </a> 
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/gerdaespinosa">
@@ -19,7 +19,7 @@
                 <a href="https://github.com/ChildEater69">
                     <sub><b>Avdhesh Kumar Sharma 😊</b></sub>
                     <br />
-                </a> 
+                </a>
             </td>
              <td align="center">
                 <a href="https://github.com/s2ahil">
@@ -47,7 +47,7 @@
                 <a href="https://github.com/imaxmayur">
                     <sub><b>Mayur Gosavi</b></sub>
                     <br />
-                </a> 
+                </a>
             </td>
     </tr>
     <tr>
@@ -60,7 +60,7 @@
                 <a href="https://github.com/RoyDev72">
                     <sub><b>Shivam Roy</b></sub>
                     <br />
-                </a> 
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/ankittmeena">
@@ -83,19 +83,19 @@
                 <a href="https://github.com/chitimbwasc">
                     <sub><b>Christopher Chitimbwa</b></sub>
                     <br />
-                </a> 
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/YOURUSERNAME">
                     <sub><b>Sidharth</b></sub>
                     <br />
-                </a> 
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/Divewitholeg">
                     <sub><b>Oleg Rybnikov</b></sub>
                     <br />
-                </a> 
+                </a>
             </td>
         </tr>
         <tr>
@@ -103,19 +103,19 @@
                 <a href="https://github.com/montsea999">
                     <sub><b>Montserrat Álvarez</b></sub>
                     <br />
-                </a> 
+                </a>
             </td>
             <td align = "center">
                 <a href = "https://github.com/shiv-droid">
                     <sub><b>Shivanshu Tripathi</b></sub>
                     <br />
                 </a>
-            </td>        
+            </td>
             <td align="center">
                 <a href="https://github.com/davidjosipovic">
                     <sub><b>David Josipovic</b></sub>
                     <br />
-                </a> 
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/sakshisahu612">
@@ -158,6 +158,13 @@
                     <br />
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/damiakadiri">
+                    <sub><b>Dami Akadiri</b></sub>
+                    <br />
+                </a>
+            </td>
         </tr>
     </tbody>
+
 </table>
