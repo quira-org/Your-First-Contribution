@@ -123,6 +123,27 @@
                     <br />
                 </a> 
             </td>
+                <a href="https://github.com/AlexDolch">
+                    <sub><b>Alex Dolch</b></sub>
+                    <br />
+                </a> 
+            </td>
+                <a href="https://github.com/BBETUEL">
+                    <sub><b>BBETUEL</b></sub>
+                    <br />
+                </a> 
+            </td>
+                <a href="https://github.com/AlexBenavente">
+                    <sub><b>Alex Benavente</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/navilindo">
+                    <sub><b>Navilindo Hassan</b></sub>
+                    <br />
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
