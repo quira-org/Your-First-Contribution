@@ -125,6 +125,33 @@
             </td>
         </tr>
         <tr>
+             <td align="center">
+                <a href="https://github.com/Soumava-221B">
+                    <sub><b>Soumava Das</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/ronank7z">
+                    <sub><b>Ronan Kitten &#127470;&#127465;</b></sub>
+                    <br />
+                </a> 
+            </td>
+                <a href="https://github.com/AlexDolch">
+                    <sub><b>Alex Dolch</b></sub>
+                    <br />
+                </a> 
+            </td>
+                <a href="https://github.com/BBETUEL">
+                    <sub><b>BBETUEL</b></sub>
+                    <br />
+                </a> 
+            </td>
+                <a href="https://github.com/AlexBenavente">
+                    <sub><b>Alex Benavente</b></sub>
+                    <br />
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/navilindo">
                     <sub><b>Navilindo Hassan</b></sub>
