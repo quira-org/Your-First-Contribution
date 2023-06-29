@@ -123,8 +123,6 @@
                     <br />
                 </a> 
             </td>
-        </tr>
-        <tr>
              <td align="center">
                 <a href="https://github.com/Soumava-221B">
                     <sub><b>Soumava Das</b></sub>
@@ -147,6 +145,9 @@
                     <br />
                 </a> 
             </td>
+        </tr>
+        <tr>
+            <td align="center">
                 <a href="https://github.com/AlexBenavente">
                     <sub><b>Alex Benavente</b></sub>
                     <br />
@@ -159,10 +160,16 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/anrgsh33">
+                    <sub><b>Anurag Singh</b></sub>
+                    <br />
+                </a> 
+             </td>
+             <td align="center">
                 <a href="https://github.com/damiakadiri">
                     <sub><b>Dami Akadiri</b></sub>
                     <br />
-                </a>
+               </a>
             </td>
         </tr>
     </tbody>
