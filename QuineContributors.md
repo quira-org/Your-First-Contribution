@@ -129,6 +129,12 @@
                     <br />
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/anrgsh33">
+                    <sub><b>Anurag Singh</b></sub>
+                    <br />
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
