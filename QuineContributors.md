@@ -179,6 +179,12 @@
                     <br />
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/Ronin95">
+                    <sub><b>Nikola Badjevic</b></sub>
+                    <br />
+                </a> 
+            </td>
         </tr>
     </tbody>
 
