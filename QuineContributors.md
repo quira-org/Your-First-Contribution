@@ -179,6 +179,12 @@
                     <br />
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/piece0fmind">
+                    <sub><b>Bibek Neupane</b></sub>
+                    <br />
+                </a> 
+            </td>
         </tr>
     </tbody>
 
