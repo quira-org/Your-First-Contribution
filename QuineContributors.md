@@ -179,6 +179,12 @@
                     <br />
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/pavelee">
+                    <sub><b>Paweł Ciosek</b></sub>
+                    <br />
+                </a> 
+            </td>
         </tr>
     </tbody>
 
