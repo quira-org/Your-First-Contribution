@@ -185,6 +185,12 @@
                     <br />
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/cristianbyte">
+                    <sub><b>Cristian M. ⚡</b></sub>
+                    <br />
+                </a> 
+            </td>
         </tr>
     </tbody>
 
