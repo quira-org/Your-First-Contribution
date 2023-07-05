@@ -167,7 +167,7 @@
                     <br />
                </a>
             </td>
-                        <td align="center">
+            <td align="center">
                 <a href="https://github.com/AlexDolch">
                     <sub><b>Alex Dolch</b></sub>
                     <br />
@@ -188,6 +188,12 @@
             <td align="center">
                 <a href="https://github.com/cristianbyte">
                     <sub><b>Cristian M. ⚡</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/Ikquilibrium-SG">
+                    <sub><b>Sammyboi Layor</b></sub>
                     <br />
                 </a> 
             </td>
