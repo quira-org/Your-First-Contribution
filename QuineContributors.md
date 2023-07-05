@@ -167,7 +167,7 @@
                     <br />
                </a>
             </td>
-                        <td align="center">
+            <td align="center">
                 <a href="https://github.com/AlexDolch">
                     <sub><b>Alex Dolch</b></sub>
                     <br />
@@ -191,6 +191,12 @@
                     <br />
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/owentechke">
+                    <sub><b>Abraham Gumba</b></sub>
+                    <br />
+                </a> 
+            </td>			
         </tr>
     </tbody>
 
