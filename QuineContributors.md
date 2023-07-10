@@ -196,6 +196,11 @@
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/owentechke">
+                    <sub><b>Abraham Gumba</b></sub>
+                    <br />
+                </a> 
+            </td>			
                 <a href="https://github.com/dhrey112">
                     <sub><b>Dare A. ⚡</b></sub>
                     <br />
