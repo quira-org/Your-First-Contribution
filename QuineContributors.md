@@ -97,12 +97,6 @@
                     <br />
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/Divewitholeg">
-                    <sub><b>Oleg Rybnikov</b></sub>
-                    <br />
-                </a>
-            </td>
         </tr>
         <tr>
             <td align="center">
@@ -188,13 +182,16 @@
             <td align="center">
                 <a href="https://github.com/pavelee">
                     <sub><b>Paweł Ciosek</b></sub>
-                 
+            </td>   
+            <td align="center">  
                 <a href="https://github.com/asgar72">
                     <sub><b>Asgar Abbas</b></sub>
                 </a> 
+            </td>
+            <td align="center">    
                 <a href="https://github.com/piece0fmind">
                     <sub><b>Bibek Neupane</b></sub>
-                            </a> 
+                </a> 
             </td>
           <td align="center">
                 <a href="https://github.com/Ronin95">
@@ -228,6 +225,12 @@
                     <sub><b>Dare A. ⚡</b></sub>
                     <br />
                 </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/Divewitholeg">
+                    <sub><b>Oleg Rybnikov</b></sub>
+                    <br />
+                </a>
             </td>
         </tr>
     </tbody>
