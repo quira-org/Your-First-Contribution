@@ -49,8 +49,8 @@
                     <br />
                 </a>
             </td>
-    </tr>
-    <tr>
+        </tr>
+        <tr>
             <td align="center">
                 <a href="https://github.com/mnamesujit">
                     <sub><b>Sujit Kumar</b></sub>
@@ -186,14 +186,19 @@
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/asgar72">
+                    <sub><b>Asgar Abbas</b></sub>
+                </a> 
                 <a href="https://github.com/piece0fmind">
                     <sub><b>Bibek Neupane</b></sub>
                             </a> 
             </td>
+          <td align="center">
                 <a href="https://github.com/Ronin95">
                     <sub><b>Nikola Badjevic</b></sub>
                  </a> 
             </td>
+          <td align="center">
                 <a href="https://github.com/cristianbyte">
                     <sub><b>Cristian M. ⚡</b></sub>
                     <br />
@@ -202,8 +207,9 @@
             <td align="center">
                 <a href="https://github.com/Ikquilibrium-SG">
                     <sub><b>Sammyboi Layor</b></sub>
-                            </a> 
+                </a> 
             </td>
+          <td align="center">
                 <a href="https://github.com/Md-Hasib-Askari">
                     <sub><b>Md Hasib Askari</b></sub>
                     <br/>
@@ -214,6 +220,7 @@
                     <br />
                 </a> 
             </td>			
+          <td align="center">
                 <a href="https://github.com/dhrey112">
                     <sub><b>Dare A. ⚡</b></sub>
                     <br />
