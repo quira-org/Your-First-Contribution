@@ -30,6 +30,7 @@
             <td align="center">
                 <a href="https://github.com/YOURUSERNAME">
                     <sub><b>NAMAN KUMAR GUPTA</b></sub>
+                <br />
              </td>
             <td align="center">
                 <a href="https://github.com/Mayureshd-18">
@@ -77,6 +78,7 @@
             <td align="center">
                 <a href="https://github.com/eshan-one">
                     <sub><b>Eshan Shikarkhane</b></sub>
+                <br />
                 </a>
             </td>
             <td align="center">
@@ -182,23 +184,28 @@
             <td align="center">
                 <a href="https://github.com/pavelee">
                     <sub><b>Paweł Ciosek</b></sub>
+                <br />
+                </a>
             </td>   
             <td align="center">  
                 <a href="https://github.com/asgar72">
                     <sub><b>Asgar Abbas</b></sub>
+                    <br />
                 </a> 
             </td>
             <td align="center">    
                 <a href="https://github.com/piece0fmind">
                     <sub><b>Bibek Neupane</b></sub>
+                    <br />
                 </a> 
             </td>
         <tr>
           <td align="center">
                 <a href="https://github.com/Ronin95">
                     <sub><b>Nikola Badjevic</b></sub>
-                 </a> 
-            </td>
+                    <br />
+                </a> 
+          </td>
           <td align="center">
                 <a href="https://github.com/cristianbyte">
                     <sub><b>Cristian M. ⚡</b></sub>
@@ -208,6 +215,7 @@
             <td align="center">
                 <a href="https://github.com/Ikquilibrium-SG">
                     <sub><b>Sammyboi Layor</b></sub>
+                    <br />
                 </a> 
             </td>
           <td align="center">
