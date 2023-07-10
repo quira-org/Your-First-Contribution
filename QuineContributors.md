@@ -186,6 +186,10 @@
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/Ronin95">
+                    <sub><b>Nikola Badjevic</b></sub>
+                 </a> 
+            </td>
                 <a href="https://github.com/cristianbyte">
                     <sub><b>Cristian M. ⚡</b></sub>
                     <br />
