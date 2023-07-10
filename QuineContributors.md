@@ -86,6 +86,12 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Honey2339">
+                    <sub><b>Prasoon Kumar</b></sub>
+                    <br />
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/YOURUSERNAME">
                     <sub><b>Sidharth</b></sub>
                     <br />
@@ -161,7 +167,7 @@
                     <br />
                </a>
             </td>
-                        <td align="center">
+            <td align="center">
                 <a href="https://github.com/AlexDolch">
                     <sub><b>Alex Dolch</b></sub>
                     <br />
@@ -182,6 +188,16 @@
             <td align="center">
                 <a href="https://github.com/Ronin95">
                     <sub><b>Nikola Badjevic</b></sub>
+                 </a> 
+            </td>
+                <a href="https://github.com/cristianbyte">
+                    <sub><b>Cristian M. ⚡</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/dhrey112">
+                    <sub><b>Dare A. ⚡</b></sub>
                     <br />
                 </a> 
             </td>
