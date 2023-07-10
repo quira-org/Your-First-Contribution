@@ -186,6 +186,9 @@
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/pavelee">
+                    <sub><b>Paweł Ciosek</b></sub>
+                 
                 <a href="https://github.com/asgar72">
                     <sub><b>Asgar Abbas</b></sub>
                 </a> 
