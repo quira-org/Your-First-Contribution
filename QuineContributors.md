@@ -200,6 +200,10 @@
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/Ikquilibrium-SG">
+                    <sub><b>Sammyboi Layor</b></sub>
+                            </a> 
+            </td>
                 <a href="https://github.com/Md-Hasib-Askari">
                     <sub><b>Md Hasib Askari</b></sub>
                     <br/>
