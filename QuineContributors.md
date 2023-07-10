@@ -186,6 +186,14 @@
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/piece0fmind">
+                    <sub><b>Bibek Neupane</b></sub>
+                            </a> 
+            </td>
+                <a href="https://github.com/Ronin95">
+                    <sub><b>Nikola Badjevic</b></sub>
+                 </a> 
+            </td>
                 <a href="https://github.com/cristianbyte">
                     <sub><b>Cristian M. ⚡</b></sub>
                     <br />
@@ -194,10 +202,23 @@
             <td align="center">
                 <a href="https://github.com/Ikquilibrium-SG">
                     <sub><b>Sammyboi Layor</b></sub>
+                            </a> 
+            </td>
+                <a href="https://github.com/Md-Hasib-Askari">
+                    <sub><b>Md Hasib Askari</b></sub>
+                    <br/>
+                 </a>
+            <td align="center">
+                <a href="https://github.com/owentechke">
+                    <sub><b>Abraham Gumba</b></sub>
+                    <br />
+                </a> 
+            </td>			
+                <a href="https://github.com/dhrey112">
+                    <sub><b>Dare A. ⚡</b></sub>
                     <br />
                 </a> 
             </td>
         </tr>
     </tbody>
-
 </table>
