@@ -193,6 +193,7 @@
                     <sub><b>Bibek Neupane</b></sub>
                 </a> 
             </td>
+        <tr>
           <td align="center">
                 <a href="https://github.com/Ronin95">
                     <sub><b>Nikola Badjevic</b></sub>
