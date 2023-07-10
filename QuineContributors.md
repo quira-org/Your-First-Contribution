@@ -186,6 +186,10 @@
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/piece0fmind">
+                    <sub><b>Bibek Neupane</b></sub>
+                            </a> 
+            </td>
                 <a href="https://github.com/Ronin95">
                     <sub><b>Nikola Badjevic</b></sub>
                  </a> 
@@ -208,5 +212,4 @@
             </td>
         </tr>
     </tbody>
-
 </table>
