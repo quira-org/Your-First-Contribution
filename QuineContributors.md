@@ -248,5 +248,13 @@
                 </a> 
             </td>
         </tr>
+        <tr>
+			<td align="center">
+                <a href="https://github.com/nerdycreative">
+                    <sub><b>nerdyCREATIVE</b></sub>
+                    <br />
+                </a> 
+            </td>
+        </tr>
     </tbody>
 </table>
