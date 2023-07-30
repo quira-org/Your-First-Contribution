@@ -248,5 +248,13 @@
                 </a> 
             </td>
         </tr>
+        <tr>
+         <td align="center">
+         <a href="<a href="https://https://github.com/Emmarie-Ahtunan">
+            <sub><b>Emily Marie Ahtúnan</b></sub>
+            <br />
+            </a>
+        </tr>
+        </tr>
     </tbody>
 </table>
