@@ -57,6 +57,13 @@
                     <sub><b>Sujit Kumar</b></sub>
                     <br />
                 </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/ShibamRoy9826">
+                    <sub><b>Shibam Roy</b></sub>
+                    <br />
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/RoyDev72">
                     <sub><b>Shivam Roy</b></sub>
