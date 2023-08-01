@@ -247,6 +247,8 @@
                     <br />
                 </a> 
             </td>
+        </tr>
+        <tr>
             <td align="center">
                 <a href="https://github.com/Deveshjoshi101">
                     <sub><b>Devesh Joshi</b></sub>
