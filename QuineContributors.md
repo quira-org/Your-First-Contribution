@@ -10,6 +10,12 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/harshsinghcs">
+                    <sub><b>Harsh Singh</b></sub>
+                    <br />
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/gerdaespinosa">
                     <sub><b>Gerda Espinosa</b></sub>
                     <br />
