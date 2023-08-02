@@ -11,7 +11,7 @@
             </td>
             <td align="center">
                 <a href="https://github.com/harshsinghcs">
-                    <sub><b>Harsh Singh</b></sub>
+                    <sub><b>Harsh Singh😍</b></sub>
                     <br />
                 </a>
             </td>
