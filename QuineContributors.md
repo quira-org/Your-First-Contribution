@@ -9,10 +9,9 @@
                     <br />
                 </a>
             </td>
-
-<td align="center">
-                <a href="https://github.com/aman-singh73">
-                    <sub><b>Aman kumar singh</b></sub>
+            <td align="center">
+                <a href="https://github.com/harshsinghcs">
+                    <sub><b>Harsh Singh😍</b></sub>
                     <br />
                 </a>
             </td>
@@ -51,22 +50,17 @@
                     <br />
                 </a>
             </td>
+        </tr>
+        <tr>
              <td align="center">
                 <a href="https://github.com/imaxmayur">
                     <sub><b>Mayur Gosavi</b></sub>
                     <br />
                 </a>
             </td>
-        </tr>
-        <tr>
             <td align="center">
                 <a href="https://github.com/mnamesujit">
                     <sub><b>Sujit Kumar</b></sub>
-                    <br />
-                </a>
-            <td align="center">
-                <a href="https://github.com/RoyDev72">
-                    <sub><b>Shivam Roy</b></sub>
                     <br />
                 </a>
             </td>
@@ -106,8 +100,14 @@
                     <br />
                 </a>
             </td>
-        </tr>
-        <tr>
+            </tr>
+            <tr>
+            <td align="center">
+                <a href="https://github.com/ShibamRoy9826">
+                    <sub><b>Shibam Roy😃</b></sub>
+                    <br/>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/montsea999">
                     <sub><b>Montserrat Álvarez</b></sub>
@@ -150,14 +150,14 @@
                     <br />
                 </a> 
             </td>
+        </tr>
+        <tr>
             <td align="center">
                 <a href="https://github.com/navilindo">
                     <sub><b>Navilindo Hassan</b></sub>
                     <br />
                 </a>
             </td>
-        </tr>
-        <tr>
             <td align="center">
                 <a href="https://github.com/anrgsh33">
                     <sub><b>Anurag Singh</b></sub>
@@ -200,13 +200,14 @@
                     <br />
                 </a> 
             </td>
+            </tr>
+            <tr>
             <td align="center">    
                 <a href="https://github.com/piece0fmind">
                     <sub><b>Bibek Neupane</b></sub>
                     <br />
                 </a> 
             </td>
-        <tr>
           <td align="center">
                 <a href="https://github.com/Ronin95">
                     <sub><b>Nikola Badjevic</b></sub>
@@ -247,13 +248,52 @@
                     <sub><b>Oleg Rybnikov</b></sub>
                     <br />
                 </a>
+            </tr>
+            <tr>
             </td>
-                  <td align="center">
+            <td align="center">
                 <a href="https://github.com/YOURUSERNAME">
                     <sub><b>Mohd Saquib Mansoori</b></sub>
                     <br />
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/souraOP">
+                    <sub><b>Sourasish Mondal</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/Deveshjoshi101">
+                  <sub><b>Devesh Joshi</b></sub>
+                      <br />
+                </a> 
+            </td>
+         <td align="center">
+              <a href="https://https://github.com/Emmarie-Ahtunan">
+                  <sub><b>Emily Marie Ahtúnan</b></sub>
+                     <br />
+             </a>
+         </td>                                                       
+          <td align="center">
+                <a href="https://github.com/promiseer">
+                    <sub><b>promiser🚀</b></sub>
+                    <br />
+                </a> 
+            </td>
+           <td align="center">
+                <a href="https://github.com/just-Muzz">
+                    <sub><b>Idris Muzzammil</b></sub>
+                    <br />
+                </a> 
+            </td>
+              <td align="center">
+                <a href="https://github.com/aman-singh73">
+                    <sub><b>Aman kumar singh</b></sub>
+                    <br />
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
+
