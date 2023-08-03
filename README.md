@@ -89,7 +89,7 @@ Here you add your name (it can be a nickname if you want to!).
             </td>
 ```
 
-4️⃣ To paste the code correctly you need to keep 2 things in mind. Firstly, new code must always go at the bottom. Secondly, there can only be 8 profiles per row. If a row already has the maximum amount you need to create a new row. This can be done by using `<tr> YOUR CODE SNIPPET HERE </tr>` simply paste this code in three separate lines, following indentation. Remember code always goes at the bottom but above `</tbody>`  
+4️⃣ To paste the code correctly you need to keep 2 things in mind. Firstly, new code must always go at the bottom. Secondly, there can only be 8 profiles per row. If a row already has the maximum amount you need to create a new row. This can be done by using `<tr> YOUR CODE SNIPPET HERE </tr>` simply paste this code in three separate lines, following indentation. Remember code always goes at the bottom but above `</tbody>`.
 
 *Note: Look closely at how past contributors have pasted their code. Respect the indentation (aka the spacing between each line of code) to make sure the code is not messy. 🫶
 
