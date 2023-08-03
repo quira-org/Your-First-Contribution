@@ -248,8 +248,13 @@
                 </a> 
             </td>
         </tr>
-        <tr>
-            <td align="center">
+         <td align="center">
+         <a href="<a href="https://https://github.com/Emmarie-Ahtunan">
+            <sub><b>Emily Marie Ahtúnan</b></sub>
+            <br />
+            </a>
+         </td>                                                
+          <td align="center">
                 <a href="https://github.com/promiseer">
                     <sub><b>promiser🚀</b></sub>
                     <br />
