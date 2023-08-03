@@ -89,11 +89,11 @@ Here you add your name (it can be a nickname if you want to!).
             </td>
 ```
 
-*Note: We limit 8 profiles per row, so if the current row already has the maximum amount, create a new `<tr> YOUR CODE SNIPPET HERE </tr>`. We have seen in the past many contributors add the `<tr>  </tr>`  when it was not necessary, so please look at the code closely before you are sure you need to add it. 
+4️⃣ To paste the code correctly you need to keep 2 things in mind. Firstly, new code must always go at the bottom. Secondly, there can only be 8 profiles per row. If a row already has the maximum amount you need to create a new row. This can be done by using `<tr> YOUR CODE SNIPPET HERE </tr>` simply paste this code in three separate lines, following indentation. Remember code always goes at the bottom but above `</tbody>`  
 
-*Note 2: Look closely at how past contributors have pasted their code. Respect the indentation (aka the spacing between each line of code) to make sure the code is not messy. 🫶
+*Note: Look closely at how past contributors have pasted their code. Respect the indentation (aka the spacing between each line of code) to make sure the code is not messy. 🫶
 
-4️⃣ When done, save the file!
+5️⃣ When done, save the file!
 
 ## 4. Upload your changes to your online GitHub repo
 
