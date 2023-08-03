@@ -248,5 +248,13 @@
                 </a> 
             </td>
         </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/promiseer">
+                    <sub><b>promiser🚀</b></sub>
+                    <br />
+                </a> 
+            </td>
+        </tr>
     </tbody>
 </table>
