@@ -63,11 +63,6 @@
                     <sub><b>Sujit Kumar</b></sub>
                     <br />
                 </a>
-            <td align="center">
-                <a href="https://github.com/RoyDev72">
-                    <sub><b>Shivam Roy</b></sub>
-                    <br />
-                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/ankittmeena">
@@ -105,8 +100,14 @@
                     <br />
                 </a>
             </td>
-        </tr>
-        <tr>
+            <td align="center">
+                <a href="https://github.com/ShibamRoy9826">
+                    <sub><b>Shibam Roy😃</b></sub>
+                    <br/>
+                </a>
+            </td>
+            </tr>
+            <tr>
             <td align="center">
                 <a href="https://github.com/montsea999">
                     <sub><b>Montserrat Álvarez</b></sub>
@@ -149,14 +150,14 @@
                     <br />
                 </a> 
             </td>
+            </tr>
+        <tr>
             <td align="center">
                 <a href="https://github.com/navilindo">
                     <sub><b>Navilindo Hassan</b></sub>
                     <br />
                 </a>
             </td>
-        </tr>
-        <tr>
             <td align="center">
                 <a href="https://github.com/anrgsh33">
                     <sub><b>Anurag Singh</b></sub>
@@ -199,13 +200,13 @@
                     <br />
                 </a> 
             </td>
+            <tr>
             <td align="center">    
                 <a href="https://github.com/piece0fmind">
                     <sub><b>Bibek Neupane</b></sub>
                     <br />
                 </a> 
             </td>
-        <tr>
           <td align="center">
                 <a href="https://github.com/Ronin95">
                     <sub><b>Nikola Badjevic</b></sub>
@@ -246,6 +247,8 @@
                     <sub><b>Oleg Rybnikov</b></sub>
                     <br />
                 </a>
+            </tr>
+            <tr>
             </td>
             <td align="center">
                 <a href="https://github.com/YOURUSERNAME">
