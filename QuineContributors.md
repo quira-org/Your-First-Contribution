@@ -50,14 +50,14 @@
                     <br />
                 </a>
             </td>
+        </tr>
+        <tr>
              <td align="center">
                 <a href="https://github.com/imaxmayur">
                     <sub><b>Mayur Gosavi</b></sub>
                     <br />
                 </a>
             </td>
-        </tr>
-        <tr>
             <td align="center">
                 <a href="https://github.com/mnamesujit">
                     <sub><b>Sujit Kumar</b></sub>
@@ -100,14 +100,14 @@
                     <br />
                 </a>
             </td>
+            </tr>
+            <tr>
             <td align="center">
                 <a href="https://github.com/ShibamRoy9826">
                     <sub><b>Shibam Roy😃</b></sub>
                     <br/>
                 </a>
             </td>
-            </tr>
-            <tr>
             <td align="center">
                 <a href="https://github.com/montsea999">
                     <sub><b>Montserrat Álvarez</b></sub>
@@ -150,7 +150,7 @@
                     <br />
                 </a> 
             </td>
-            </tr>
+        </tr>
         <tr>
             <td align="center">
                 <a href="https://github.com/navilindo">
@@ -200,6 +200,7 @@
                     <br />
                 </a> 
             </td>
+            </tr>
             <tr>
             <td align="center">    
                 <a href="https://github.com/piece0fmind">
