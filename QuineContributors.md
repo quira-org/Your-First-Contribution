@@ -50,12 +50,6 @@
                     <br />
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/ranjanmangla1">
-                    <sub><b>Ranjan Mangla</b></sub>
-                    <br />
-                </a>
-            </td>
         </tr>
         <tr>
              <td align="center">
