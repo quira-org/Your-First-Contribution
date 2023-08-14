@@ -299,6 +299,13 @@
                     <br />
                 </a>
             </td>
+              <td align="center">
+                <a href="https://github.com/nikhil1610">
+                    <sub><b>Nikhil Gautam</b></sub>
+                    <br />
+                </a>
+            </td>
+
         </tr>
     </tbody>
 </table>
