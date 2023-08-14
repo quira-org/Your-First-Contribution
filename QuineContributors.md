@@ -100,12 +100,6 @@
                     <br />
                 </a> 
             </td>
-            <td align="center">
-                <a href="https://github.com/YOURUSERNAME">
-                    <sub><b>Sidharth</b></sub>
-                    <br />
-                </a>
-            </td>
             </tr>
             <tr>
             <td align="center">
@@ -304,8 +298,15 @@
                     <sub><b>Nikhil Gautam</b></sub>
                     <br />
                 </a>
+              </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/YOURUSERNAME">
+                    <sub><b>Sidharth</b></sub>
+                    <br />
+                </a>
             </td>
-
         </tr>
     </tbody>
 </table>
