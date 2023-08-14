@@ -95,6 +95,12 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Ovalelephant35">
+                    <sub><b>Anurag Singh</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/YOURUSERNAME">
                     <sub><b>Sidharth</b></sub>
                     <br />
