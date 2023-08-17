@@ -307,6 +307,12 @@
                     <br />
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/jobayermannan">
+                    <sub><b>Jobayer Mannan</b></sub>
+                    <br />
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
