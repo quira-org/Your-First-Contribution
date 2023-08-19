@@ -307,6 +307,12 @@
                     <br />
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/LeoDKVT">
+                    <sub><b>José Leonardo</b></sub>
+                    <br />
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
