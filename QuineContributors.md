@@ -298,12 +298,20 @@
                     <sub><b>Nikhil Gautam</b></sub>
                     <br />
                 </a>
-              </td>
+            </td>
         </tr>
         <tr>
             <td align="center">
                 <a href="https://github.com/YOURUSERNAME">
                     <sub><b>Sidharth</b></sub>
+                    <br />
+                </a>
+            </td>
+        <tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/kanchana37">
+                    <sub><b>Kanchana chopra</b></sub>
                     <br />
                 </a>
             </td>
