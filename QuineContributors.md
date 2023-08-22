@@ -307,6 +307,12 @@
                     <br />
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Shashwat27sri">
+                    <sub><b>Shashwat Srivastava</b></sub>
+                    <br />
+                </a>
+            </td>
         </tr>
         <td align="center">
                 <a href="https://github.com/sahitya12345">
