@@ -52,6 +52,18 @@
             </td>
         </tr>
         <tr>
+            <td>
+                <a href="https://github.com/Sravani-Charugundla/Your-First-Contribution">
+                <sub><b>Sravani</b></sub>
+                <br/>
+            </td>
+            <td>
+                <a href="https://github.com/Sravani-Charugundla/Your-First-Contribution">
+                <sub><b>Sravani Charugundla</b></sub>
+                <br/>
+            </td>
+        </tr>
+        <tr>
              <td align="center">
                 <a href="https://github.com/imaxmayur">
                     <sub><b>Mayur Gosavi</b></sub>
