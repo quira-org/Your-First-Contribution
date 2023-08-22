@@ -335,6 +335,12 @@
                     <br />
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/GSdaBlessedFist">
+                    <sub><b>Jason Zamora aka GS</b></sub>
+                    <br />
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
