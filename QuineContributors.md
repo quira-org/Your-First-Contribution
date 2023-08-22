@@ -62,8 +62,6 @@
                 <sub><b>Sravani Charugundla</b></sub>
                 <br/>
             </td>
-        </tr>
-        <tr>
              <td align="center">
                 <a href="https://github.com/imaxmayur">
                     <sub><b>Mayur Gosavi</b></sub>
@@ -100,6 +98,8 @@
                     <br />
                 </a>
             </td>
+        </tr>
+        <tr>                    
             <td align="center">
                 <a href="https://github.com/Honey2339">
                     <sub><b>Prasoon Kumar</b></sub>
@@ -112,8 +112,6 @@
                     <br />
                 </a> 
             </td>
-            </tr>
-            <tr>
             <td align="center">
                 <a href="https://github.com/ShibamRoy9826">
                     <sub><b>Shibam Roy😃</b></sub>
@@ -150,6 +148,8 @@
                     <br />
                 </a> 
             </td>
+        </tr>
+        <tr>    
             <td align="center">
                 <a href="https://github.com/ronank7z">
                     <sub><b>Ronan Kitten &#127470;&#127465;</b></sub>
@@ -162,8 +162,6 @@
                     <br />
                 </a> 
             </td>
-        </tr>
-        <tr>
             <td align="center">
                 <a href="https://github.com/navilindo">
                     <sub><b>Navilindo Hassan</b></sub>
@@ -200,6 +198,8 @@
                     <br />
                 </a> 
             </td>
+        </tr>
+        <tr>
             <td align="center">
                 <a href="https://github.com/pavelee">
                     <sub><b>Paweł Ciosek</b></sub>
@@ -212,8 +212,6 @@
                     <br />
                 </a> 
             </td>
-            </tr>
-            <tr>
             <td align="center">    
                 <a href="https://github.com/piece0fmind">
                     <sub><b>Bibek Neupane</b></sub>
@@ -248,7 +246,9 @@
                     <sub><b>Abraham Gumba</b></sub>
                     <br />
                 </a> 
-            </td>			
+            </td>
+        </tr>
+        <tr>
           <td align="center">
                 <a href="https://github.com/dhrey112">
                     <sub><b>Dare A. ⚡</b></sub>
@@ -260,8 +260,6 @@
                     <sub><b>Oleg Rybnikov</b></sub>
                     <br />
                 </a>
-            </tr>
-            <tr>
             </td>
             <td align="center">
                 <a href="https://github.com/YOURUSERNAME">
@@ -299,6 +297,8 @@
                     <br />
                 </a> 
             </td>
+        </tr>
+        <tr>
               <td align="center">
                 <a href="https://github.com/aman-singh73">
                     <sub><b>Aman kumar singh</b></sub>
@@ -311,8 +311,6 @@
                     <br />
                 </a>
               </td>
-        </tr>
-        <tr>
             <td align="center">
                 <a href="https://github.com/YOURUSERNAME">
                     <sub><b>Sidharth</b></sub>
@@ -332,9 +330,6 @@
                     <br />
                 </a>
             </td>
-        <tr>
-
-        </tr>
          <tr>
             <td align="center">
                 <a href="https://github.com/AbdulfattahHessein">
