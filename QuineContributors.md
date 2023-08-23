@@ -318,13 +318,11 @@
                 </a>
             </td>
             <td align="center">
-
                 <a href="https://github.com/jobayermannan">
                     <sub><b>Jobayer Mannan &#x1F1E7;&#x1F1E9;</sub>
-                        <br />
-                       </a>
-                        </td>
-
+                     <br />
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
