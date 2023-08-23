@@ -318,29 +318,13 @@
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/Shashwat27sri">
-                    <sub><b>Shashwat Srivastava</b></sub>
-                    <br />
-                </a>
-            </td>
-        <td align="center">
-                <a href="https://github.com/sahitya12345">
-                    <sub><b>SahityaSatya</b></sub>
-                    <br />
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/AbdulfattahHessein">
-                    <sub><b>Abdulfattah Hessein</b></sub>
-                    <br />
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/GSdaBlessedFist">
-                    <sub><b>Jason Zamora aka GS</b></sub>
-                    <br />
-                </a>
-            </td>
+
+                <a href="https://github.com/jobayermannan">
+                    <sub><b>Jobayer Mannan &#x1F1E7;&#x1F1E9;</sub>
+                        <br />
+                       </a>
+                        </td>
+
         </tr>
     </tbody>
 </table>
