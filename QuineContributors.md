@@ -311,8 +311,6 @@
                     <br />
                 </a>
               </td>
-              </tr>
-              <tr>
                <td align="center">
                 <a href="https://github.com/Vikranthraosb">
                     <sub><b>Vikranth</b></sub>
