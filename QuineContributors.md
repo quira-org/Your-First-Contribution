@@ -311,6 +311,14 @@
                     <br />
                 </a>
               </td>
+              </tr>
+              <tr>
+               <td align="center">
+                <a href="https://github.com/Vikranthraosb">
+                    <sub><b>Vikranth</b></sub>
+                    <br />
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/YOURUSERNAME">
                     <sub><b>Sidharth</b></sub>
