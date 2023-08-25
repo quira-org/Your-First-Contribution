@@ -297,8 +297,6 @@
                     <br />
                 </a> 
             </td>
-        </tr>
-        <tr>
               <td align="center">
                 <a href="https://github.com/aman-singh73">
                     <sub><b>Aman kumar singh</b></sub>
