@@ -310,6 +310,10 @@
                     <sub><b>Nikhil Gautam</b></sub>
                     <br />
                 </a>
+
+            </td>
+        </tr>
+        <tr>
               </td>
                <td align="center">
                 <a href="https://github.com/Vikranthraosb">
@@ -324,6 +328,11 @@
                 </a>
             </td>
             <td align="center">
+
+                <a href="https://github.com/kanchana37">
+                    <sub><b>Kanchana chopra</b></sub>
+                    <br />
+              <td align="center">
                 <a href="https://github.com/jobayermannan">
                     <sub><b>Jobayer Mannan &#x1F1E7;&#x1F1E9;</sub>
                      <br />
