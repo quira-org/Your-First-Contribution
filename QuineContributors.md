@@ -328,7 +328,7 @@
                 <a href="https://github.com/kanchana37">
                     <sub><b>Kanchana chopra</b></sub>
                     <br />
-              <td align="center">
+            <td align="center">
                 <a href="https://github.com/jobayermannan">
                     <sub><b>Jobayer Mannan &#x1F1E7;&#x1F1E9;</sub>
                      <br />
@@ -338,6 +338,14 @@
                 <a href="https://github.com/abhishikkarmakr">
                     <sub><b>Abhishik karmakar</b></sub>
                     <br />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/himanshugoldy">
+                    <sub><b>Himanshu Choudhary</b></sub>
+                     <br />
                 </a>
             </td>
         </tr>
