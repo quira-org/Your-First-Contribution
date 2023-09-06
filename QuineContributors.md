@@ -340,8 +340,6 @@
                     <br />
                 </a>
             </td>
-        </tr>
-        <tr>
             <td align="center">
                 <a href="https://github.com/himanshugoldy">
                     <sub><b>Himanshu Choudhary</b></sub>
