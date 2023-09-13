@@ -346,14 +346,14 @@
                      <br />
                 </a>
             </td>
-            <td align="center">
+        </tr>
+        <tr>
+        <td align="center">
                 <a href="https://github.com/E-AMAZE">
-                    <sub><b>Someone Here</b></sub>
+                    <sub><b>MD EHTESHAM</b></sub>
                      <br />
                 </a>
             </td>
-        </tr>
-        <tr>
         </tr>
     </tbody>
 </table>
