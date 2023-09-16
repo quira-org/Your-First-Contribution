@@ -349,7 +349,7 @@
         </tr>
         <tr>
          <td align="center">
-                <a href="https://github.com/vibhashsingh">
+                <a href="https://github.com/Matrix-Mesh">
                     <sub><b>Vibhash Singh</b></sub>
                      <br />
                 </a>
