@@ -348,7 +348,12 @@
             </td>
         </tr>
         <tr>
+         <td align="center">
+                <a href="https://github.com/vibhashsingh">
+                    <sub><b>Vibhash Singh</b></sub>
+                     <br />
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
-
