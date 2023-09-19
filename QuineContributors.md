@@ -347,14 +347,12 @@
                      <br />
                 </a>
             </td>
-        </tr>
             <td align="center">
                 <a href="https://github.com/JillTCLin">
                     <sub><b>Jill</b></sub>
                      <br />
                 </a>
             </td>
-        <tr>
             <td align="center">
                 <a href="https://github.com/MannuVilasara">
                     <sub><b>Mannu</b></sub>
