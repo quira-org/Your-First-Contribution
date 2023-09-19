@@ -354,6 +354,7 @@
                      <br />
                 </a>
             </td>
+            <td align="center">
                 <a href="https://github.com/E-AMAZE">
                     <sub><b>MD EHTESHAM</b></sub>
                      <br />
