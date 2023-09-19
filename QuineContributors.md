@@ -324,7 +324,6 @@
                     <br />
                 </a>
             </td>
-            <td align="center">
                 <a href="https://github.com/kanchana37">
                     <sub><b>Kanchana chopra</b></sub>
                     <br />
@@ -381,6 +380,12 @@
                 <a href="https://github.com/kanchana37">
                     <sub><b>Vibhash Singh</b></sub>
                     <br />
+            </td>
+            <td align="center">
+                <a href="https://github.com/LeoDKVT">
+                    <sub><b>José Leonardo</b></sub>
+                    <br />
+                </a>
             </td>
         </tr>
     </tbody>
