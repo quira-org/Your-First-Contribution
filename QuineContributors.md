@@ -358,17 +358,19 @@
             <td align="center">
                 <a href="https://github.com/MannuVilasara">
                     <sub><b>Mannu</b></sub>
-                     <br />
+                    <br />
                 </a>
-            </td>
          <td align="center">
                 <a href="https://github.com/Matrix-Mesh">
                     <sub><b>Vibhash Singh</b></sub>
                      <br />
                 </a>
             </td>
-            </tr>
-            <tr>
+            <td align="center">
+                <a href="https://github.com/kanchana37">
+                    <sub><b>Vibhash Singh</b></sub>
+                    <br />
+            </td>
         </tr>
     </tbody>
 </table>
