@@ -299,7 +299,7 @@
             </td>
         </tr>
         <tr>
-              <td align="center">
+            <td align="center">
                 <a href="https://github.com/aman-singh73">
                     <sub><b>Aman kumar singh</b></sub>
                     <br />
@@ -350,6 +350,11 @@
         </tr>
         <tr>
         <td align="center">
+                <a href="https://github.com/tanjilrahman">
+                    <sub><b>Tanjil Rahman</b></sub>
+                     <br />
+                </a>
+            </td>
                 <a href="https://github.com/E-AMAZE">
                     <sub><b>MD EHTESHAM</b></sub>
                      <br />
