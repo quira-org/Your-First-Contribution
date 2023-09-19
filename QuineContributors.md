@@ -328,6 +328,7 @@
                 <a href="https://github.com/kanchana37">
                     <sub><b>Kanchana chopra</b></sub>
                     <br />
+            </td>
             <td align="center">
                 <a href="https://github.com/jobayermannan">
                     <sub><b>Jobayer Mannan &#x1F1E7;&#x1F1E9;</sub>
@@ -354,7 +355,28 @@
                      <br />
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/JillTCLin">
+                    <sub><b>Jill</b></sub>
+                     <br />
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/MannuVilasara">
+                    <sub><b>Mannu</b></sub>
+                    <br />
+                </a>
+         <td align="center">
+                <a href="https://github.com/Matrix-Mesh">
+                    <sub><b>Vibhash Singh</b></sub>
+                     <br />
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/kanchana37">
+                    <sub><b>Vibhash Singh</b></sub>
+                    <br />
+            </td>
         </tr>
     </tbody>
 </table>
-
