@@ -328,6 +328,7 @@
                 <a href="https://github.com/kanchana37">
                     <sub><b>Kanchana chopra</b></sub>
                     <br />
+            </td>
             <td align="center">
                 <a href="https://github.com/jobayermannan">
                     <sub><b>Jobayer Mannan &#x1F1E7;&#x1F1E9;</sub>
@@ -348,7 +349,14 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                <a href="https://github.com/MannuVilasara">
+                    <sub><b>Mannu</b></sub>
+                     <br />
+                </a>
+            </td>
+        </tr>
+        <tr>
         </tr>
     </tbody>
 </table>
-
