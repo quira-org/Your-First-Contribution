@@ -388,6 +388,12 @@
                     <br />
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/lash0000">
+                    <sub><b>eyelash</b></sub>
+                    <br />
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
