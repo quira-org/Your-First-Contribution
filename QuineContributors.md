@@ -388,6 +388,12 @@
                     <br />
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/mademoiselle-chantal">
+                    <sub><b>Chantal Chicheko</b></sub>
+                    <br />
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
