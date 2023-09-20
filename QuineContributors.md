@@ -388,6 +388,12 @@
                     <br />
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/utkarshpateriya">
+                    <sub><b>Utkarsh Pateriya</b></sub>
+                    <br />
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
