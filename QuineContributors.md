@@ -347,6 +347,12 @@
                      <br />
                 </a>
             </td>
+                <td align="center">
+                <a href="https://github.com/Vidhi2604">
+                    <sub><b>Vidhi Sahai</b></sub>
+                     <br />
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">
