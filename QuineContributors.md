@@ -36,8 +36,9 @@
             <td align="center">
                 <a href="https://github.com/YOURUSERNAME">
                     <sub><b>NAMAN KUMAR GUPTA</b></sub>
-                <br />
-             </td>
+                    <br />
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/Mayureshd-18">
                     <sub><b>Mayuresh Dharwadkar</b></sub>
@@ -54,13 +55,15 @@
         <tr>
             <td>
                 <a href="https://github.com/Sravani-Charugundla/Your-First-Contribution">
-                <sub><b>Sravani</b></sub>
-                <br/>
+                    <sub><b>Sravani</b></sub>
+                    <br />
+                </a>
             </td>
             <td>
                 <a href="https://github.com/Sravani-Charugundla/Your-First-Contribution">
-                <sub><b>Sravani Charugundla</b></sub>
-                <br/>
+                    <sub><b>Sravani Charugundla</b></sub>
+                    <br />
+                </a>
             </td>
              <td align="center">
                 <a href="https://github.com/imaxmayur">
@@ -173,8 +176,8 @@
                     <sub><b>Anurag Singh</b></sub>
                     <br />
                 </a> 
-             </td>
-             <td align="center">
+            </td>
+            <td align="center">
                 <a href="https://github.com/damiakadiri">
                     <sub><b>Dami Akadiri</b></sub>
                     <br />
@@ -203,7 +206,7 @@
             <td align="center">
                 <a href="https://github.com/pavelee">
                     <sub><b>Paweł Ciosek</b></sub>
-                <br />
+                    <br />
                 </a>
             </td>   
             <td align="center">  
@@ -229,24 +232,24 @@
                     <sub><b>Cristian M. ⚡</b></sub>
                     <br />
                 </a> 
-            </td>
-            <td align="center">
+          </td>
+          <td align="center">
                 <a href="https://github.com/Ikquilibrium-SG">
                     <sub><b>Sammyboi Layor</b></sub>
                     <br />
                 </a> 
-            </td>
+          </td>
           <td align="center">
                 <a href="https://github.com/Md-Hasib-Askari">
                     <sub><b>Md Hasib Askari</b></sub>
                     <br/>
                  </a>
-            <td align="center">
+          <td align="center">
                 <a href="https://github.com/owentechke">
                     <sub><b>Abraham Gumba</b></sub>
                     <br />
                 </a> 
-            </td>
+          </td>
         </tr>
         <tr>
           <td align="center">
@@ -305,14 +308,13 @@
                     <br />
                 </a>
             </td>
-              <td align="center">
+            <td align="center">
                 <a href="https://github.com/nikhil1610">
                     <sub><b>Nikhil Gautam</b></sub>
                     <br />
                 </a>
             </td>
-              </td>
-               <td align="center">
+            <td align="center">
                 <a href="https://github.com/Vikranthraosb">
                     <sub><b>Vikranth</b></sub>
                     <br />
@@ -324,13 +326,15 @@
                     <br />
                 </a>
             </td>
+            <td align="center">
                 <a href="https://github.com/kanchana37">
                     <sub><b>Kanchana chopra</b></sub>
                     <br />
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/jobayermannan">
-                    <sub><b>Jobayer Mannan &#x1F1E7;&#x1F1E9;</sub>
+                    <sub><b>Jobayer Mannan &#x1F1E7;&#x1F1E9;</b></sub>
                      <br />
                 </a>
             </td>
@@ -381,12 +385,19 @@
                 <a href="https://github.com/kanchana37">
                     <sub><b>Vibhash Singh</b></sub>
                     <br />
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/LeoDKVT">
                     <sub><b>José Leonardo</b></sub>
                     <br />
                 </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/tlewandster">
+                    <sub><b>tlewandster🤪</b></sub>
+                    <br />
+                </a> 
             </td>
         </tr>
     </tbody>
