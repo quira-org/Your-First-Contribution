@@ -346,11 +346,6 @@
                      <br />
                 </a>
             </td>
-                <td align="center">
-                  <a href="https://github.com/Vidhi2604">
-                    <sub><b>Vidhi Sahai</b></sub>
-                  </a>
-                </td>
         <td align="center">
                 <a href="https://github.com/tanjilrahman">
                     <sub><b>Tanjil Rahman</b></sub>
@@ -392,6 +387,11 @@
                     <sub><b>José Leonardo</b></sub>
                     <br />
                 </a>
+            </td>
+            <td align="center">
+                  <a href="https://github.com/Vidhi2604">
+                    <sub><b>Vidhi Sahai</b></sub>
+                  </a>
             </td>
         </tr>
     </tbody>
