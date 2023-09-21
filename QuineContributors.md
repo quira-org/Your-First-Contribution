@@ -299,7 +299,7 @@
             </td>
         </tr>
         <tr>
-              <td align="center">
+            <td align="center">
                 <a href="https://github.com/aman-singh73">
                     <sub><b>Aman kumar singh</b></sub>
                     <br />
@@ -324,7 +324,6 @@
                     <br />
                 </a>
             </td>
-            <td align="center">
                 <a href="https://github.com/kanchana37">
                     <sub><b>Kanchana chopra</b></sub>
                     <br />
@@ -348,21 +347,52 @@
                 </a>
             </td>
                 <td align="center">
-                <a href="https://github.com/Vidhi2604">
+                  <a href="https://github.com/Vidhi2604">
                     <sub><b>Vidhi Sahai</b></sub>
+                  </a>
+                </td>
+        <td align="center">
+                <a href="https://github.com/tanjilrahman">
+                    <sub><b>Tanjil Rahman</b></sub>
                      <br />
                 </a>
             </td>
         </tr>
         <tr>
             <td align="center">
-                <a href="https://github.com/MannuVilasara">
-                    <sub><b>Mannu</b></sub>
+                <a href="https://github.com/E-AMAZE">
+                    <sub><b>MD EHTESHAM</b></sub>
                      <br />
                 </a>
             </td>
-        </tr>
-        <tr>
+            <td align="center">
+                <a href="https://github.com/JillTCLin">
+                    <sub><b>Jill</b></sub>
+                     <br />
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/MannuVilasara">
+                    <sub><b>Mannu</b></sub>
+                    <br />
+                </a>
+         <td align="center">
+                <a href="https://github.com/Matrix-Mesh">
+                    <sub><b>Vibhash Singh</b></sub>
+                     <br />
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/kanchana37">
+                    <sub><b>Vibhash Singh</b></sub>
+                    <br />
+            </td>
+            <td align="center">
+                <a href="https://github.com/LeoDKVT">
+                    <sub><b>José Leonardo</b></sub>
+                    <br />
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
