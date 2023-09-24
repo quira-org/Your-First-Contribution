@@ -388,6 +388,12 @@
                     <br />
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/FredrikRidderfalk">
+                    <sub><b>Fredrik Ridderfalk</b></sub>
+                    <br />
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
