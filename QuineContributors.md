@@ -388,6 +388,12 @@
                     <br />
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/sonyfebrian">
+                    <sub><b>Sony Febrian</b></sub>
+                    <br />
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
