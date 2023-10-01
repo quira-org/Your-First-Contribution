@@ -416,6 +416,12 @@
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/LoftyDroid">
+                    <sub><b>Ahmed Shaikh</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
                   <a href="https://github.com/Vidhi2604">
                     <sub><b>Vidhi Sahai</b></sub>
                   </a>
