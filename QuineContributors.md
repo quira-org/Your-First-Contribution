@@ -324,6 +324,7 @@
                     <br />
                 </a>
             </td>
+            <td align="center">
                 <a href="https://github.com/kanchana37">
                     <sub><b>Kanchana chopra</b></sub>
                     <br />
