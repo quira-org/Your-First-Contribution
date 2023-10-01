@@ -409,6 +409,12 @@
                     <br />
                 </a>
             </td>
+              <td align="center">
+                <a href="https://github.com/SATYAMKRIS">
+                    <sub><b>SATYAM CHATURVEDI</b></sub>
+                    <br />
+                </a> 
+            </td>
             </td>
         </tr>
     </tbody>
