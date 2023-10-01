@@ -348,12 +348,6 @@
                      <br />
                 </a>
             </td>
-        <td align="center">
-                <a href="https://github.com/tanjilrahman">
-                    <sub><b>Tanjil Rahman</b></sub>
-                     <br />
-                </a>
-            </td>
         </tr>
         <tr>
             <td align="center">
@@ -395,6 +389,12 @@
                     <sub><b>Sony Febrian</b></sub>
                     <br />
                 </a>
+                <td align="center">
+                <a href="https://github.com/tanjilrahman">
+                    <sub><b>Tanjil Rahman</b></sub>
+                     <br />
+                </a>
+            </td>
             </td>
         </tr>
     </tbody>
