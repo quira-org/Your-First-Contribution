@@ -350,12 +350,6 @@
                      <br />
                 </a>
             </td>
-        <td align="center">
-                <a href="https://github.com/tanjilrahman">
-                    <sub><b>Tanjil Rahman</b></sub>
-                     <br />
-                </a>
-            </td>
         </tr>
         <tr>
             <td align="center">
@@ -392,6 +386,52 @@
                     <sub><b>José Leonardo</b></sub>
                     <br />
                 </a>
+            </td>
+             <td align="center">
+                <a href="https://github.com/sonyfebrian">
+                    <sub><b>Sony Febrian</b></sub>
+                    <br />
+                </a>
+               <td align="center">
+                <a href="https://github.com/tanjilrahman">
+                    <sub><b>Tanjil Rahman</b></sub>
+                     <br />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/photis14">
+                    <sub><b>John Photis</b></sub>
+                    <br />
+                </a>
+            </td>
+              <td align="center">
+                <a href="https://github.com/FredrikRidderfalk">
+                    <sub><b>Fredrik Ridderfalk</b></sub>
+                    <br />
+                </a>
+            </td>
+              <td align="center">
+                <a href="https://github.com/SATYAMKRIS">
+                    <sub><b>SATYAM CHATURVEDI</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
+                  <a href="https://github.com/Vidhi2604">
+                    <sub><b>Vidhi Sahai</b></sub>
+                  </a>
+            </td>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/virejdasani">
+                    <sub><b>Virej Dasani</b></sub>
+                    <br />
+                </a>
+            </td>
             </td>
             <td align="center">
                 <a href="https://github.com/tlewandster">
