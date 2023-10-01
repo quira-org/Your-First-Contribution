@@ -324,9 +324,11 @@
                     <br />
                 </a>
             </td>
+            <td align="center">
                 <a href="https://github.com/kanchana37">
                     <sub><b>Kanchana chopra</b></sub>
                     <br />
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/jobayermannan">
@@ -343,12 +345,6 @@
             <td align="center">
                 <a href="https://github.com/himanshugoldy">
                     <sub><b>Himanshu Choudhary</b></sub>
-                     <br />
-                </a>
-            </td>
-        <td align="center">
-                <a href="https://github.com/tanjilrahman">
-                    <sub><b>Tanjil Rahman</b></sub>
                      <br />
                 </a>
             </td>
@@ -388,11 +384,31 @@
                     <br />
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/sonyfebrian">
+                    <sub><b>Sony Febrian</b></sub>
+                    <br />
+                </a>
+                <td align="center">
+                <a href="https://github.com/tanjilrahman">
+                    <sub><b>Tanjil Rahman</b></sub>
+                     <br />
+                </a>
+            </td>
+        </tr>
+        <tr>
             <td align="center">
+                <a href="https://github.com/photis14">
+                    <sub><b>John Photis</b></sub>
+                    <br />
+                </a>
+            </td>
+              <td align="center">
                 <a href="https://github.com/FredrikRidderfalk">
                     <sub><b>Fredrik Ridderfalk</b></sub>
                     <br />
                 </a>
+            </td>
             </td>
         </tr>
     </tbody>
