@@ -422,5 +422,14 @@
             </td>
             </td>
         </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/virejdasani">
+                    <sub><b>Virej Dasani</b></sub>
+                    <br />
+                </a>
+            </td>
+            </td>
+        </tr>
     </tbody>
 </table>
