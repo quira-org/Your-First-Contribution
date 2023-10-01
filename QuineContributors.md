@@ -397,6 +397,12 @@
             </td>
         </tr>
         <tr>
+            <td align="center">
+                <a href="https://github.com/photis14">
+                    <sub><b>John Photis</b></sub>
+                    <br />
+                </a>
+            </td>
             </td>
         </tr>
     </tbody>
