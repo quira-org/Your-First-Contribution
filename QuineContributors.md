@@ -406,13 +406,13 @@
                     <br />
                 </a>
             </td>
-              <td align="center">
+            <td align="center">
                 <a href="https://github.com/FredrikRidderfalk">
                     <sub><b>Fredrik Ridderfalk</b></sub>
                     <br />
                 </a>
             </td>
-              <td align="center">
+            <td align="center">
                 <a href="https://github.com/SATYAMKRIS">
                     <sub><b>SATYAM CHATURVEDI</b></sub>
                     <br />
@@ -423,17 +423,21 @@
                     <sub><b>Vidhi Sahai</b></sub>
                   </a>
             </td>
-            </td>
             <td align="center">
                 <a href="https://github.com/virejdasani">
                     <sub><b>Virej Dasani</b></sub>
                     <br />
                 </a>
             </td>
-            </td>
             <td align="center">
                 <a href="https://github.com/tlewandster">
                     <sub><b>tlewandster🤪</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/seaniy">
+                    <sub><b>seaniy</b></sub>
                     <br />
                 </a> 
             </td>
