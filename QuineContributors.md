@@ -22,6 +22,12 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/AshishUjjwal">
+                    <sub><b>Ashish Ujjwal 😊</b></sub>
+                    <br />
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/ChildEater69">
                     <sub><b>Avdhesh Kumar Sharma 😊</b></sub>
                     <br />
