@@ -22,6 +22,12 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/AshishUjjwal">
+                    <sub><b>Ashish Ujjwal 😊</b></sub>
+                    <br />
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/ChildEater69">
                     <sub><b>Avdhesh Kumar Sharma 😊</b></sub>
                     <br />
@@ -382,6 +388,11 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/sandeepyadav0007">
+                    <sub> <b>Sandeep yadav</b></sub>
+                    <br />
+            </td>
+            <td align="center">
                 <a href="https://github.com/LeoDKVT">
                     <sub><b>José Leonardo</b></sub>
                     <br />
@@ -419,6 +430,12 @@
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/LoftyDroid">
+                    <sub><b>Ahmed Shaikh</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
                   <a href="https://github.com/Vidhi2604">
                     <sub><b>Vidhi Sahai</b></sub>
                   </a>
@@ -440,6 +457,23 @@
                     <sub><b>seaniy</b></sub>
                     <br />
                 </a> 
+             <td align="center">
+                <a href="https://github.com/SanyamB0912">
+                    <sub><b>SANYAM BHARDWAJ</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/mdirshaddev">
+                    <sub><b>Md Irshad</b></sub>
+                    <br />
+                </a> 
+             </td>
+             <td align="center">
+                <a href="https://github.com/mademoiselle-chantal">
+                    <sub><b>Chantal Chicheko</b></sub>
+                    <br />
+                </a>
             </td>
         </tr>
     </tbody>
