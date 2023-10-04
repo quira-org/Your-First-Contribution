@@ -22,6 +22,12 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/AshishUjjwal">
+                    <sub><b>Ashish Ujjwal 😊</b></sub>
+                    <br />
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/ChildEater69">
                     <sub><b>Avdhesh Kumar Sharma 😊</b></sub>
                     <br />
@@ -42,12 +48,6 @@
             <td align="center">
                 <a href="https://github.com/Mayureshd-18">
                     <sub><b>Mayuresh Dharwadkar</b></sub>
-                    <br />
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/ranjanmangla1">
-                    <sub><b>Ranjan Mangla</b></sub>
                     <br />
                 </a>
             </td>
@@ -382,6 +382,11 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/sandeepyadav0007">
+                    <sub> <b>Sandeep yadav</b></sub>
+                    <br />
+            </td>
+            <td align="center">
                 <a href="https://github.com/LeoDKVT">
                     <sub><b>José Leonardo</b></sub>
                     <br />
@@ -392,12 +397,6 @@
                     <sub><b>Sony Febrian</b></sub>
                     <br />
                 </a>
-               <td align="center">
-                <a href="https://github.com/tanjilrahman">
-                    <sub><b>Tanjil Rahman</b></sub>
-                     <br />
-                </a>
-            </td>
         </tr>
         <tr>
             <td align="center">
@@ -406,15 +405,21 @@
                     <br />
                 </a>
             </td>
-              <td align="center">
+            <td align="center">
                 <a href="https://github.com/FredrikRidderfalk">
                     <sub><b>Fredrik Ridderfalk</b></sub>
                     <br />
                 </a>
             </td>
-              <td align="center">
+            <td align="center">
                 <a href="https://github.com/SATYAMKRIS">
                     <sub><b>SATYAM CHATURVEDI</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/LoftyDroid">
+                    <sub><b>Ahmed Shaikh</b></sub>
                     <br />
                 </a> 
             </td>
@@ -423,13 +428,11 @@
                     <sub><b>Vidhi Sahai</b></sub>
                   </a>
             </td>
-            </td>
             <td align="center">
                 <a href="https://github.com/virejdasani">
                     <sub><b>Virej Dasani</b></sub>
                     <br />
                 </a>
-            </td>
             </td>
             <td align="center">
                 <a href="https://github.com/tlewandster">
@@ -438,11 +441,66 @@
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/seaniy">
+                    <sub><b>seaniy</b></sub>
+                    <br />
+                </a> 
+            </td>
+        <tr>
+                <td align="center">
+                <a href="https://github.com/tanjilrahman">
+                    <sub><b>Tanjil Rahman</b></sub>
+                     <br />
+                </a>
+                </td>
+                <td align="center">
+                <a href="https://github.com/SanyamB0912">
+                    <sub><b>SANYAM BHARDWAJ</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/mdirshaddev">
+                    <sub><b>Md Irshad</b></sub>
+                    <br />
+                </a> 
+             </td>
+            <td align="center">
+                <a href="https://github.com/ranjanmangla1">
+                    <sub><b>Ranjan Mangla</b></sub>
+                    <br />
+                </a>
+            </td>
+             <td align="center">
+                <a href="https://github.com/mademoiselle-chantal">
+                    <sub><b>Chantal Chicheko</b></sub>
+                    <br />
+                </a>
+            </td>
+              <td align="center">
+                    <a href="https://github.com/Mehdy922">
+                    <sub><b>Muhammad Mehdy</b></sub>
+                    <br />
+                </a> 
+               </td>
+              <td align="center">
+                <a href="https://github.com/2003LoneWolf">
+                    <sub><b>Amar Murmu</b></sub>
+                    <br />
+                </a>    
+            </td>
+            <td align="center">
                 <a href="https://github.com/RonitBaranwal">
                     <sub><b>Ronit Kumar Baranwal</b></sub>
                     <br />
                 </a> 
             </td>
+            </tr>
+                <!-- NEXT 8 NAMES TO PUT BELOW HERE-->
+            <tr>
+            </tr>
+                <!-- NEXT 8 NAMES TO PUT BELOW HERE-->
+            <tr>
         </tr>
     </tbody>
 </table>
