@@ -1,5 +1,8 @@
 # Your-First-Contribution
 
+## 🎉 Quines is participating in Hacktoberfest 2023! 🎉
+_This means that a contribution in this repository will count towards one of the four PRs for Hacktoberfest!_
+
 Hey friend! 👋 
 
 Welcome to this repository which marks your start in the Open Source World!! 🌐👯‍♀️
