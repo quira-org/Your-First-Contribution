@@ -51,12 +51,6 @@
                     <br />
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/ranjanmangla1">
-                    <sub><b>Ranjan Mangla</b></sub>
-                    <br />
-                </a>
-            </td>
         </tr>
         <tr>
             <td>
@@ -403,12 +397,6 @@
                     <sub><b>Sony Febrian</b></sub>
                     <br />
                 </a>
-               <td align="center">
-                <a href="https://github.com/tanjilrahman">
-                    <sub><b>Tanjil Rahman</b></sub>
-                     <br />
-                </a>
-            </td>
         </tr>
         <tr>
             <td align="center">
@@ -457,7 +445,15 @@
                     <sub><b>seaniy</b></sub>
                     <br />
                 </a> 
-             <td align="center">
+            </td>
+            <tr>
+                <td align="center">
+                <a href="https://github.com/tanjilrahman">
+                    <sub><b>Tanjil Rahman</b></sub>
+                     <br />
+                </a>
+                </td>
+                <td align="center">
                 <a href="https://github.com/SanyamB0912">
                     <sub><b>SANYAM BHARDWAJ</b></sub>
                     <br />
@@ -469,12 +465,19 @@
                     <br />
                 </a> 
              </td>
+            <td align="center">
+                <a href="https://github.com/ranjanmangla1">
+                    <sub><b>Ranjan Mangla</b></sub>
+                    <br />
+                </a>
+            </td>
              <td align="center">
                 <a href="https://github.com/mademoiselle-chantal">
                     <sub><b>Chantal Chicheko</b></sub>
                     <br />
                 </a>
             </td>
+            </tr>
         </tr>
     </tbody>
 </table>
