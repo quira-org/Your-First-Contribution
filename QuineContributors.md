@@ -495,6 +495,12 @@
                     <br />
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/SultanAhmad7560">
+                    <sub><b>Sultan Ahmad</b></sub>
+                    <br />
+                </a> 
+            </td>
             </tr>
                     
                 <!-- NEXT 8 NAMES TO PUT IN THIS SECTION -->
