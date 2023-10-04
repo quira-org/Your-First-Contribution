@@ -496,10 +496,14 @@
                 </a> 
             </td>
             </tr>
-                <!-- NEXT 8 NAMES TO PUT BELOW HERE-->
+                    
+                <!-- NEXT 8 NAMES TO PUT IN THIS SECTION -->
+                
             <tr>
             </tr>
-                <!-- NEXT 8 NAMES TO PUT BELOW HERE-->
+            
+                <!-- FOLLOWING 8 NAMES TO PUT BELOW HERE-->
+                
             <tr>
         </tr>
     </tbody>
