@@ -510,6 +510,6 @@
                     <br />
                 </a> 
             </td>
-            </tr>
+        </tr>
     </tbody>
 </table>
