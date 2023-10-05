@@ -495,17 +495,17 @@
                     <br />
                 </a> 
             </td>
-            <td align="center">
-                <a href="https://github.com/SultanAhmad7560">
-                    <sub><b>Sultan Ahmad</b></sub>
-                    <br />
-                </a> 
-            </td>
             </tr>
             <tr>
             <td align="center">
                 <a href="https://github.com/cpiyush170">
                     <sub><b>Piyush Chauhan</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/SultanAhmad7560">
+                    <sub><b>Sultan Ahmad</b></sub>
                     <br />
                 </a> 
             </td>
