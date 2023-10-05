@@ -424,9 +424,10 @@
                 </a> 
             </td>
             <td align="center">
-                  <a href="https://github.com/Vidhi2604">
-                    <sub><b>Vidhi Sahai</b></sub>
-                  </a>
+                <a href="https://github.com/SultanAhmad7560">
+                    <sub><b>Sultan Ahmad</b></sub>
+                    <br />
+                </a> 
             </td>
             <td align="center">
                 <a href="https://github.com/virejdasani">
@@ -504,11 +505,12 @@
                 </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/SultanAhmad7560">
-                    <sub><b>Sultan Ahmad</b></sub>
+                <a href="https://github.com/Vidhi2604">
+                    <sub><b>Vidhi Sahai</b></sub>
                     <br />
                 </a> 
             </td>
+            
             </tr>
     </tbody>
 </table>
