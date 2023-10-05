@@ -502,15 +502,13 @@
                 </a> 
             </td>
             </tr>
-                    
-                <!-- NEXT 8 NAMES TO PUT IN THIS SECTION -->
-                
             <tr>
+            <td align="center">
+                <a href="https://github.com/cpiyush170">
+                    <sub><b>Piyush Chauhan</b></sub>
+                    <br />
+                </a> 
+            </td>
             </tr>
-            
-                <!-- FOLLOWING 8 NAMES TO PUT BELOW HERE-->
-                
-            <tr>
-        </tr>
     </tbody>
 </table>
