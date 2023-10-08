@@ -490,6 +490,12 @@
                     <br />
                 </a>    
             </td>
+             <td align="center">
+                <a href="https://github.com/bhargavshirin">
+                    <sub><b>Bhargav Shirin</b></sub>
+                    <br />
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/RonitBaranwal">
                     <sub><b>Ronit Kumar Baranwal</b></sub>
