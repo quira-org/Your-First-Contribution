@@ -522,6 +522,12 @@
                     <br />
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/mohan060104">
+                    <sub><b>Mohan Majhi</b></sub>
+                    <br />
+                </a> 
+            </td>   
         </tr>
     </tbody>
 </table>
