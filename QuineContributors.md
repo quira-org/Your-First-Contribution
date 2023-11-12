@@ -528,6 +528,12 @@
                     <br />
                 </a> 
             </td>   
+            <td align="center">
+                <a href="https://github.com/Cssmith89">
+                    <sub><b>Shane Smith</b></sub>
+                    <br />
+                </a> 
+            </td>            
         </tr>
     </tbody>
 </table>
