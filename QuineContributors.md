@@ -5,6 +5,12 @@
         <tr>
             <td align="center">
                 <a href="https://github.com/fernandezbaptiste">
+                    <sub><b>Vincent</b></sub>
+                    <br />
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/fernandezbaptiste">
                     <sub><b>Baptiste Fernandez</b></sub>
                     <br />
                 </a>
@@ -534,6 +540,12 @@
                     <br />
                 </a> 
             </td>            
+            <td align="center">
+                <a href="https://github.com/khushi-06">
+                    <sub><b>Khushi Gupta</b></sub>
+                    <br />
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
