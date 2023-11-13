@@ -527,7 +527,13 @@
                     <sub><b>Mohan Majhi</b></sub>
                     <br />
                 </a> 
-            </td>   
+            </td> 
+            <td align="center">
+                <a href="https://github.com/AneeqaKhan">
+                    <sub><b>Aneeqa Khan</b></sub>
+                    <br />
+                </a> 
+            </td>  
         </tr>
     </tbody>
 </table>
