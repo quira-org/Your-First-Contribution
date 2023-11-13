@@ -533,15 +533,19 @@
                     <sub><b>Mohan Majhi</b></sub>
                     <br />
                 </a> 
-            </td>
-
+            </td>   
+            <td align="center">
+                <a href="https://github.com/Cssmith89">
+                    <sub><b>Shane Smith</b></sub>
+                    <br />
+                </a> 
+            </td>            
             <td align="center">
                 <a href="https://github.com/khushi-06">
                     <sub><b>Khushi Gupta</b></sub>
                     <br />
                 </a> 
-            </td> 
-
+            </td>
         </tr>
     </tbody>
 </table>
