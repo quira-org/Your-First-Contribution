@@ -533,7 +533,15 @@
                     <sub><b>Mohan Majhi</b></sub>
                     <br />
                 </a> 
-            </td>   
+            </td>
+
+            <td align="center">
+                <a href="https://github.com/khushi-06">
+                    <sub><b>Khushi Gupta</b></sub>
+                    <br />
+                </a> 
+            </td> 
+
         </tr>
     </tbody>
 </table>
