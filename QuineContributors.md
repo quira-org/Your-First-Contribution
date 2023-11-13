@@ -51,12 +51,6 @@
                     <br />
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/Mayureshd-18">
-                    <sub><b>Mayuresh Dharwadkar</b></sub>
-                    <br />
-                </a>
-            </td>
         </tr>
         <tr>
             <td>
@@ -545,6 +539,12 @@
                     <sub><b>Khushi Gupta</b></sub>
                     <br />
                 </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/Mayureshd-18">
+                    <sub><b>Mayuresh Dharwadkar</b></sub>
+                    <br />
+                </a>
             </td>
         </tr>
     </tbody>
