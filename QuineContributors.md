@@ -528,6 +528,8 @@
                     <br />
                 </a> 
             </td> 
+        </tr>
+        <tr>
             <td align="center">
                 <a href="https://github.com/AneeqaKhan">
                     <sub><b>Aneeqa Khan</b></sub>
