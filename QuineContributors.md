@@ -5,6 +5,12 @@
         <tr>
             <td align="center">
                 <a href="https://github.com/fernandezbaptiste">
+                    <sub><b>Vincent</b></sub>
+                    <br />
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/fernandezbaptiste">
                     <sub><b>Baptiste Fernandez</b></sub>
                     <br />
                 </a>
@@ -42,12 +48,6 @@
             <td align="center">
                 <a href="https://github.com/YOURUSERNAME">
                     <sub><b>NAMAN KUMAR GUPTA</b></sub>
-                    <br />
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/Mayureshd-18">
-                    <sub><b>Mayuresh Dharwadkar</b></sub>
                     <br />
                 </a>
             </td>
@@ -527,9 +527,33 @@
                     <sub><b>Mohan Majhi</b></sub>
                     <br />
                 </a> 
-            </td> 
+            </td>   
+            <td align="center">
+                <a href="https://github.com/Cssmith89">
+                    <sub><b>Shane Smith</b></sub>
+                    <br />
+                </a> 
+            </td>            
+            <td align="center">
+                <a href="https://github.com/khushi-06">
+                    <sub><b>Khushi Gupta</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/Mayureshd-18">
+                    <sub><b>Mayuresh Dharwadkar</b></sub>
+                    <br />
+                </a>
+            </td>
         </tr>
         <tr>
+          <td align="center">
+              <a href="https://github.com/CYBWithFlourish">
+                  <sub><b>Sambo Flourish</b></sub>
+                  <br />
+                  </a> 
+              </td>
             <td align="center">
                 <a href="https://github.com/AneeqaKhan">
                     <sub><b>Aneeqa Khan</b></sub>
