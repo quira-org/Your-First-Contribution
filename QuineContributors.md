@@ -548,12 +548,18 @@
             </td>
         </tr>
         <tr>
-        <td align="center">
-            <a href="https://github.com/CYBWithFlourish">
-                <sub><b>Sambo Flourish</b></sub>
-                <br />
+          <td align="center">
+              <a href="https://github.com/CYBWithFlourish">
+                  <sub><b>Sambo Flourish</b></sub>
+                  <br />
+                  </a> 
+              </td>
+            <td align="center">
+                <a href="https://github.com/AneeqaKhan">
+                    <sub><b>Aneeqa Khan</b></sub>
+                    <br />
                 </a> 
-            </td>
+            </td>  
         </tr>
     </tbody>
 </table>
