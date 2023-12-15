@@ -558,12 +558,18 @@
                 <a href="https://github.com/AneeqaKhan">
                     <sub><b>Aneeqa Khan</b></sub>
                     <br />
-                </a> 
+                </a> </td>
             <td align="center">
                 <a href="https://github.com/sanskriti2005">
                     <sub><b>SANSKRITI</b></sub>
                     <br />
-            </td>  
+            </td> 
+            <td align="center">
+                <a href="https://github.com/kedarshenoy">
+                    <sub><b>A Kedar Shenoy 😎</b></sub>
+                    <br />
+            </td> 
+             
         </tr>
     </tbody>
 </table>
