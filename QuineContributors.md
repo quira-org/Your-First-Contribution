@@ -563,7 +563,12 @@
                 <a href="https://github.com/sanskriti2005">
                     <sub><b>SANSKRITI</b></sub>
                     <br />
-            </td>  
+            </td>
+            <td align="center">
+                <a href="https://github.com/DeepikaLakshmi4">
+                    <sub><b>Dee</b></sub>
+                    <br />
+            </td> 
         </tr>
     </tbody>
 </table>
