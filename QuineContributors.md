@@ -51,7 +51,6 @@
                     <br />
                 </a>
             </td>
-        </tr>
         <tr>
             <td>
                 <a href="https://github.com/Sravani-Charugundla/Your-First-Contribution">
@@ -563,7 +562,13 @@
                 <a href="https://github.com/sanskriti2005">
                     <sub><b>SANSKRITI</b></sub>
                     <br />
-            </td>  
-        </tr>
+            </td>
+            <td align="center">
+                <a href="https://github.com/pankhuri92">
+                    <sub><b>Pankhuri Asthana</b></sub>
+                    <br />
+                </a> 
+            </td>
+	   </tr>
     </tbody>
 </table>
