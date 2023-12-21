@@ -566,7 +566,7 @@
             </td> 
             <td align="center">
                 <a href="https://github.com/peme969">
-                    <sub><b>Peme969 ⚡</b></sub>
+                    <sub><b>Peme969 🔥</b></sub>
                     <br/>
             </td>  
         </tr>
