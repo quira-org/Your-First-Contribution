@@ -566,7 +566,7 @@
             </td>  
                         <td align="center">
                 <a href="https://github.com/YOUR_USERNAME">
-                    <sub><b>Y-ash-h</b></sub>
+                    <sub><b>Yashvardhan Jain</b></sub>
                     <br />
                 </a> 
             </td>
