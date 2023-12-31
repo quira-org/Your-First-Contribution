@@ -522,6 +522,13 @@
                     <br />
                 </a> 
             </td>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Priyanshu2631">
+                    <sub><b> Priyanshu Sahoo</b></sub>
+                    <br />
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/mohan060104">
                     <sub><b>Mohan Majhi</b></sub>
