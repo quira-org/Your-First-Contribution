@@ -546,12 +546,6 @@
                     <br />
                 </a> 
             </td>
-            <td align="center">
-                <a href="https://github.com/Mayureshd-18">
-                    <sub><b>Mayuresh Dharwadkar</b></sub>
-                    <br />
-                </a>
-            </td>
         </tr>
         <tr>
           <td align="center">
@@ -569,8 +563,11 @@
                 <a href="https://github.com/sanskriti2005">
                     <sub><b>SANSKRITI</b></sub>
                     <br />
-            </td>
-	          </tr>
+            </td> 
+            <td align="center">
+                <a href="https://github.com/peme969">
+                    <sub><b>Peme969 🔥</b></sub>
+                    <br/>
             </td> 
             <td align="center">
                 <a href="https://github.com/kedarshenoy">
@@ -599,6 +596,12 @@
                     <sub><b>Dee</b></sub>
                     <br />
             </td> 
+             <td align="center">
+                <a href="https://github.com/Mayureshd-18">
+                    <sub><b>Mayuresh Dharwadkar</b></sub>
+                    <br />
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
