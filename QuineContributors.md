@@ -51,7 +51,6 @@
                     <br />
                 </a>
             </td>
-        </tr>
         <tr>
             <td>
                 <a href="https://github.com/Sravani-Charugundla/Your-First-Contribution">
@@ -522,6 +521,13 @@
                     <br />
                 </a> 
             </td>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Priyanshu2631">
+                    <sub><b> Priyanshu Sahoo</b></sub>
+                    <br />
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/mohan060104">
                     <sub><b>Mohan Majhi</b></sub>
@@ -540,12 +546,6 @@
                     <br />
                 </a> 
             </td>
-            <td align="center">
-                <a href="https://github.com/Mayureshd-18">
-                    <sub><b>Mayuresh Dharwadkar</b></sub>
-                    <br />
-                </a>
-            </td>
         </tr>
         <tr>
           <td align="center">
@@ -558,7 +558,7 @@
                 <a href="https://github.com/AneeqaKhan">
                     <sub><b>Aneeqa Khan</b></sub>
                     <br />
-                </a> 
+                </a> </td>
             <td align="center">
                 <a href="https://github.com/sanskriti2005">
                     <sub><b>SANSKRITI</b></sub>
@@ -568,7 +568,40 @@
                 <a href="https://github.com/peme969">
                     <sub><b>Peme969 🔥</b></sub>
                     <br/>
-            </td>  
+            </td> 
+            <td align="center">
+                <a href="https://github.com/kedarshenoy">
+                    <sub><b>A Kedar Shenoy 😎</b></sub>
+                    <br />
+            </td>   
+            <td align="center">
+                <a href="https://github.com/muskan42">
+                    <sub><b>Muskan Asthana</b></sub>
+                    <br />
+                </a> 
+            </td> 
+                <a href="https://github.com/Tymnspayce">
+                    <sub><b>TYMNS PAYCE</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/pankhuri92">
+                    <sub><b>Pankhuri Asthana</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/DeepikaLakshmi4">
+                    <sub><b>Dee</b></sub>
+                    <br />
+            </td> 
+             <td align="center">
+                <a href="https://github.com/Mayureshd-18">
+                    <sub><b>Mayuresh Dharwadkar</b></sub>
+                    <br />
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
