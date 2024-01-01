@@ -4,6 +4,12 @@
     <tbody>
         <tr>
             <td align="center">
+                <a href="https://github.com/Govind516">
+                    <sub><b>Govind Gupta</b></sub>
+                    <br />
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/fernandezbaptiste">
                     <sub><b>Vincent</b></sub>
                     <br />
