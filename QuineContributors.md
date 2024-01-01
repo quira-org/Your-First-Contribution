@@ -595,13 +595,21 @@
                 <a href="https://github.com/DeepikaLakshmi4">
                     <sub><b>Dee</b></sub>
                     <br />
-            </td> 
+            </td>
+        </tr>
+        <tr>
              <td align="center">
                 <a href="https://github.com/Mayureshd-18">
                     <sub><b>Mayuresh Dharwadkar</b></sub>
                     <br />
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/YOUR_USERNAME">
+                    <sub><b>Yashvardhan Jain</b></sub>
+                    <br />
+                </a> 
+          </td>
         </tr>
     </tbody>
 </table>
