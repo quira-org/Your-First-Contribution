@@ -564,6 +564,12 @@
                     <sub><b>SANSKRITI</b></sub>
                     <br />
             </td>  
+            <td align="center">
+                <a href="https://github.com/Tymnspayce">
+                    <sub><b>TYMNS PAYCE</b></sub>
+                    <br />
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
