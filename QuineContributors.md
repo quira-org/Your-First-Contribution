@@ -553,7 +553,7 @@
                   <sub><b>Sambo Flourish</b></sub>
                   <br />
                   </a> 
-              </td>
+            </td>
             <td align="center">
                 <a href="https://github.com/AneeqaKhan">
                     <sub><b>Aneeqa Khan</b></sub>
@@ -609,7 +609,13 @@
                     <sub><b>Yashvardhan Jain</b></sub>
                     <br />
                 </a> 
-          </td>
+              </td>
+              <td align="center">
+                <a href="https://github.com/pb0126">
+                    <sub><b>Prabhu Bisht</b></sub>
+                    <br />
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
