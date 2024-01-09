@@ -616,6 +616,12 @@
                     <br />
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/utkuarslan5">
+                    <sub><b>Utku "Swag" Arslan 🎌</b></sub>
+                    <br />
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
