@@ -616,6 +616,12 @@
                     <br />
                 </a> 
             </td>
+                        <td align="center">
+                <a href="https://github.com/Ananyamishra08">
+                    <sub><b>Ananya Mishra</b></sub>
+                    <br />
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
