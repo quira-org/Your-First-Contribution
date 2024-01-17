@@ -622,6 +622,12 @@
                     <br />
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/Jainil2004">
+                    <sub><b>Jainil Jain</b></sub>
+                    <br />
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
