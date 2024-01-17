@@ -4,6 +4,12 @@
     <tbody>
         <tr>
             <td align="center">
+                <a href="https://github.com/Govind516">
+                    <sub><b>Govind Gupta</b></sub>
+                    <br />
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/fernandezbaptiste">
                     <sub><b>Vincent</b></sub>
                     <br />
@@ -42,12 +48,6 @@
              <td align="center">
                 <a href="https://github.com/s2ahil">
                     <sub><b>Sahil Pradhan😎</b></sub>
-                    <br />
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/YOURUSERNAME">
-                    <sub><b>NAMAN KUMAR GUPTA</b></sub>
                     <br />
                 </a>
             </td>
@@ -579,12 +579,6 @@
                     <sub><b>Muskan Asthana</b></sub>
                     <br />
                 </a> 
-            </td> 
-                <a href="https://github.com/Tymnspayce">
-                    <sub><b>TYMNS PAYCE</b></sub>
-                    <br />
-                </a> 
-            </td>
             <td align="center">
                 <a href="https://github.com/pankhuri92">
                     <sub><b>Pankhuri Asthana</b></sub>
@@ -619,8 +613,25 @@
             <td align="center">
                 <a href="https://github.com/utkuarslan5">
                     <sub><b>Utku "Swag" Arslan 🎌</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/Jainil2004">
+                    <sub><b>Jainil Jain</b></sub>
                     <br />
                 </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/Tymnspayce">
+                    <sub><b>TYMNS PAYCE</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/YOURUSERNAME">
+                    <sub><b>NAMAN KUMAR GUPTA</b></sub>
+                    <br />
+                </a>
             </td>
         </tr>
     </tbody>
