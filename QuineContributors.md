@@ -635,7 +635,7 @@
             </td>
             <td align="center">
                 <a href="https://github.com/Coby00333">
-                    <sub><b>TYMNS PAYCE</b></sub>
+                    <sub><b>ART-Coby</b></sub>
                     <br />
                 </a> 
             </td>
