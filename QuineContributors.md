@@ -547,6 +547,12 @@
                 </a> 
             </td>
         </tr>
+        <td align="center">
+                <a href="https://github.com/gouharmaqubool">
+                    <sub><b>Gauhar Maqubool</b></sub>
+                    <br />
+                </a> 
+            </td>
         <tr>
           <td align="center">
               <a href="https://github.com/CYBWithFlourish">
