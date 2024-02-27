@@ -51,12 +51,6 @@
                     <br />
                 </a>
             </td>
-             <td align="center">
-                <a href="https://github.com/s2ahil">
-                    <sub><b>Sahil Pradhan😎</b></sub>
-                    <br />
-                </a>
-            </td>
         <tr>
             <td>
                 <a href="https://github.com/Sravani-Charugundla/Your-First-Contribution">
@@ -553,12 +547,6 @@
                 </a> 
             </td>
         </tr>
-        <td align="center">
-                <a href="https://github.com/gouharmaqubool">
-                    <sub><b>Gauhar Maqubool</b></sub>
-                    <br />
-                </a> 
-            </td>
         <tr>
           <td align="center">
               <a href="https://github.com/CYBWithFlourish">
@@ -660,6 +648,20 @@
                     <sub><b>RnRlla</b></sub>
                     <br />
                 </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/s2ahil">
+                    <sub><b>Sahil Pradhan😎</b></sub>
+                    <br />
+                </a>
+            </td>
+             <td align="center">
+                <a href="https://github.com/gouharmaqubool">
+                    <sub><b>Gauhar Maqubool</b></sub>
+                    <br />
+                </a> 
             </td>
         </tr>
     </tbody>
