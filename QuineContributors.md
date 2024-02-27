@@ -643,12 +643,6 @@
                     <sub><b>ART-Coby</b></sub>
                     <br />
                 </a> 
-            <td align="center">
-                <a href="https://github.com/rnrlla">
-                    <sub><b>RnRlla</b></sub>
-                    <br />
-                </a>
-            </td>
         </tr>
         <tr>
             <td align="center">
@@ -662,6 +656,12 @@
                     <sub><b>Gauhar Maqubool</b></sub>
                     <br />
                 </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/rnrlla">
+                    <sub><b>RnRlla</b></sub>
+                    <br />
+                </a>
             </td>
         </tr>
     </tbody>
