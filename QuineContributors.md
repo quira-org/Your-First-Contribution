@@ -646,6 +646,11 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Laxitasojitra">
+                    <sub><b>Laxita Sojitra</b></sub>
+                    <br />
+                </a>
+            </td>
                 <a href="https://github.com/Coby00333">
                     <sub><b>ART-Coby</b></sub>
                     <br />
