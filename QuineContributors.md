@@ -592,7 +592,7 @@
             </td>
         </tr>
         <tr>
-             <td align="center">
+            <td align="center">
                 <a href="https://github.com/Mayureshd-18">
                     <sub><b>Mayuresh Dharwadkar</b></sub>
                     <br />
@@ -603,8 +603,8 @@
                     <sub><b>Yashvardhan Jain</b></sub>
                     <br />
                 </a> 
-              </td>
-              <td align="center">
+            </td>
+            <td align="center">
                 <a href="https://github.com/pb0126">
                     <sub><b>Prabhu Bisht</b></sub>
                     <br />
@@ -638,6 +638,11 @@
                     <sub><b>ART-Coby</b></sub>
                     <br />
                 </a> 
+            <td align="center">
+                <a href="https://github.com/rnrlla">
+                    <sub><b>RnRlla</b></sub>
+                    <br />
+                </a>
             </td>
         </tr>
     </tbody>
