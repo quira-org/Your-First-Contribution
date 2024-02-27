@@ -3,6 +3,12 @@
 <table>
     <tbody>
         <tr>
+             <td align="center">
+                <a href="https://github.com/MIPaltan007">
+                    <sub><b>Aditya Bikram Jena</b></sub>
+                    <br />
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/Govind516">
                     <sub><b>Govind Gupta</b></sub>
@@ -547,6 +553,12 @@
                 </a> 
             </td>
         </tr>
+        <td align="center">
+                <a href="https://github.com/gouharmaqubool">
+                    <sub><b>Gauhar Maqubool</b></sub>
+                    <br />
+                </a> 
+            </td>
         <tr>
           <td align="center">
               <a href="https://github.com/CYBWithFlourish">
@@ -592,7 +604,7 @@
             </td>
         </tr>
         <tr>
-             <td align="center">
+            <td align="center">
                 <a href="https://github.com/Mayureshd-18">
                     <sub><b>Mayuresh Dharwadkar</b></sub>
                     <br />
@@ -603,8 +615,8 @@
                     <sub><b>Yashvardhan Jain</b></sub>
                     <br />
                 </a> 
-              </td>
-              <td align="center">
+            </td>
+            <td align="center">
                 <a href="https://github.com/pb0126">
                     <sub><b>Prabhu Bisht</b></sub>
                     <br />
@@ -636,6 +648,16 @@
             <td align="center">
                 <a href="https://github.com/Laxitasojitra">
                     <sub><b>Laxita Sojitra</b></sub>
+                    <br />
+                </a>
+            </td>
+                <a href="https://github.com/Coby00333">
+                    <sub><b>ART-Coby</b></sub>
+                    <br />
+                </a> 
+            <td align="center">
+                <a href="https://github.com/rnrlla">
+                    <sub><b>RnRlla</b></sub>
                     <br />
                 </a>
             </td>
