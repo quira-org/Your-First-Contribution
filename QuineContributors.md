@@ -3,6 +3,14 @@
 <table>
     <tbody>
         <tr>
+            <td align="center">
+                <a href="https://github.com/marinakim44">
+                    <sub><b>Marina Kim</b></sub>
+                    <br />
+                </a>
+            </td>
+        </tr>
+        <tr>
              <td align="center">
                 <a href="https://github.com/MIPaltan007">
                     <sub><b>Aditya Bikram Jena</b></sub>
