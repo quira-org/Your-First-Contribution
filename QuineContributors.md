@@ -3,14 +3,6 @@
 <table>
     <tbody>
         <tr>
-            <td align="center">
-                <a href="https://github.com/marinakim44">
-                    <sub><b>Marina Kim</b></sub>
-                    <br />
-                </a>
-            </td>
-        </tr>
-        <tr>
              <td align="center">
                 <a href="https://github.com/MIPaltan007">
                     <sub><b>Aditya Bikram Jena</b></sub>
@@ -647,10 +639,6 @@
                     <br />
                 </a>
             </td>
-                <a href="https://github.com/Coby00333">
-                    <sub><b>ART-Coby</b></sub>
-                    <br />
-                </a> 
         </tr>
         <tr>
             <td align="center">
@@ -682,6 +670,18 @@
                     <sub><b>Muhammad Samiullah</b></sub>
                     <br />
                 </a> 
+            </td>
+            <td>
+                <a href="https://github.com/Coby00333">
+                    <sub><b>ART-Coby</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/marinakim44">
+                    <sub><b>Marina Kim</b></sub>
+                    <br />
+                </a>
             </td>
         </tr>
     </tbody>
