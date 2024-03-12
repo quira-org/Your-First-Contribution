@@ -2,6 +2,12 @@
 
 <table>
     <tbody>
+        <tr> <td align="center">
+                <a href="https://github.com/YOURUSERNAME">
+                    <sub><b>Ahana Basu</b></sub>
+                    <br />
+                </a> 
+            </td></tr>
         <tr>
             <td align="center">
                 <a href="https://github.com/TheSuranaverse">
