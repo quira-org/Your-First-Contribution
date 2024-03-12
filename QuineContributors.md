@@ -691,5 +691,13 @@
                 </a>
             </td>
         </tr>
+        <tr>
+        <td align="center">
+                <a href="https://github.com/YOUR_USERNAME">
+                    <sub><b>Shivika Mittal</b></sub>
+                    <br />
+                </a> 
+            </td>
+        </tr>
     </tbody>
 </table>
