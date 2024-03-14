@@ -2,12 +2,6 @@
 
 <table>
     <tbody>
-        <tr> <td align="center">
-                <a href="https://github.com/YOURUSERNAME">
-                    <sub><b>Ahana Basu</b></sub>
-                    <br />
-                </a> 
-            </td></tr>
         <tr>
          <td align="center">
                 <a href="https://github.com/Utkarshakr">
@@ -54,12 +48,6 @@
             <td align="center">
                 <a href="https://github.com/gerdaespinosa">
                     <sub><b>Gerda Espinosa</b></sub>
-                    <br />
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/AshishUjjwal">
-                    <sub><b>Ashish Ujjwal 😊</b></sub>
                     <br />
                 </a>
             </td>
@@ -710,6 +698,18 @@
                     <br />
                 </a> 
             </td>
+        <td align="center">
+                <a href="https://github.com/YOURUSERNAME">
+                    <sub><b>Ahana Basu</b></sub>
+                    <br />
+                </a> 
+        </td>
+        <td align="center">
+                <a href="https://github.com/AshishUjjwal">
+                    <sub><b>Ashish Ujjwal 😊</b></sub>
+                    <br />
+                </a>
+        </td>
         </tr>
     </tbody>
 </table>
