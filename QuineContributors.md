@@ -716,6 +716,12 @@
                     <br />
                 </a> 
         </td>
+            <td align="center">
+                <a href="https://github.com/YOUR_USERNAME">
+                    <sub><b>YOUR NAME</b></sub>
+                    <br />
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
