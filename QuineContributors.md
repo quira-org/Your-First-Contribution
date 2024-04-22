@@ -716,6 +716,12 @@
                     <br />
                 </a> 
         </td>
+        <td align="center">
+                <a href="https://github.com/Parth-Bisht-227">
+                    <sub><b>Parth Bisht 🌟</b></sub>
+                    <br />
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
