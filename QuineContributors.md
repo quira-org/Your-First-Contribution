@@ -10,6 +10,12 @@
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/Aryan741x">
+                    <sub><b>Aryan Sharma 😎</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/TheSuranaverse">
                     <sub><b>Subham Surana 😎</b></sub>
                     <br />
