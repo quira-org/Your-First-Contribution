@@ -716,6 +716,13 @@
                     <br />
                 </a> 
         </td>
+	</td>
+        <td align="center">
+                <a href="https://github.com/secondsis">
+                    <sub><b>secondsis</b></sub>
+                    <br />
+                </a> 
+        </td>
         </tr>
     </tbody>
 </table>
