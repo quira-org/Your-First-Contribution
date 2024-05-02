@@ -1,5 +1,4 @@
 # Quine Contributors 🚀👯‍♀️
-
 <table>
     <tbody>
         <tr>
@@ -752,7 +751,7 @@
                     <sub><b>secondsis</b></sub>
                     <br />
                 </a> 
-        </td>
+            </td>
         </tr>
     </tbody>
 </table>
