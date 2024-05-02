@@ -2,13 +2,12 @@
 <table>
     <tbody>
         <tr>
-         <td align="center">
+           <td align="center">
                 <a href="https://github.com/Utkarshakr">
                     <sub><b>UTKARSHA KUMAR 😎</b></sub>
                     <br />
                 </a> 
             </td>
-          
             <td align="center">
                 <a href="https://github.com/JhaGauravKr">
                     <sub><b>Gaurav Kumar Jha</b></sub>
