@@ -9,9 +9,10 @@
                     <br />
                 </a> 
             </td>
+          
             <td align="center">
-                <a href="https://github.com/Aryan741x">
-                    <sub><b>Aryan Sharma 😎</b></sub>
+                <a href="https://github.com/JhaGauravKr">
+                    <sub><b>Gaurav Kumar Jha</b></sub>
                     <br />
                 </a> 
             </td>
@@ -24,6 +25,12 @@
              <td align="center">
                 <a href="https://github.com/MIPaltan007">
                     <sub><b>Aditya Bikram Jena</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/hitgirl">
+                    <sub><b>hitgirl</b></sub>
                     <br />
                 </a> 
             </td>
@@ -698,6 +705,12 @@
             </td>
         </tr>
         <tr>
+	<td align="center">
+                <a href="https://github.com/sohv">
+                    <sub><b>ChatGPT is sexy!</b></sub>
+                    <br />
+                </a> 
+            </td>
         <td align="center">
                 <a href="https://github.com/YOUR_USERNAME">
                     <sub><b>Shivika Mittal</b></sub>
@@ -722,6 +735,18 @@
                     <br />
                 </a> 
         </td>
+        <td align="center">
+                <a href="https://github.com/Parth-Bisht-227">
+                    <sub><b>Parth Bisht 🌟</b></sub>
+                    <br />
+                </a> 
+            </td>
+           <td align="center">
+                <a href="https://github.com/Aryan741x">
+                    <sub><b>Aryan Sharma 😎</b></sub>
+                    <br />
+                </a> 
+         </td>
         </tr>
     </tbody>
 </table>
