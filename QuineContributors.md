@@ -22,6 +22,12 @@
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/hitgirl">
+                    <sub><b>hitgirl</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/Govind516">
                     <sub><b>Govind Gupta</b></sub>
                     <br />
