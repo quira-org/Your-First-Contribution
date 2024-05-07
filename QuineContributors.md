@@ -753,6 +753,12 @@
                     <br />
                 </a>
             </td>
+                    <td align="center">
+                <a href="https://github.com/Amarta113">
+                    <sub><b>Amarta Waghani</b></sub>
+                    <br />
+                </a>
+            </td>
 	</tr>
     </tbody>
 </table>
