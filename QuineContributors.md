@@ -9,7 +9,7 @@
                 </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/Utkarshakr">
+                <a href="https://github.com/mrrahulkrr">
                     <sub><b>Rahul Kumar 😃</b></sub>
                     <br />
                 </a> 
