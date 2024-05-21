@@ -753,6 +753,12 @@
                     <br />
                 </a>
             </td>
+                        <td align="center">
+                <a href="https://github.com/shinchan892">
+                    <sub><b>Tulsi Kasera</b></sub>
+                    <br />
+                </a> 
+            </td>
 	</tr>
     </tbody>
 </table>
