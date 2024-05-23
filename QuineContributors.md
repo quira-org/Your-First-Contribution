@@ -2,6 +2,12 @@
 <table>
     <tbody>
         <tr>
+                    <td align="center">
+                <a href="https://github.com/Anmolawasthi117">
+                    <sub><b>Anmol awasthi</b></sub>
+                    <br />
+                </a> 
+            </td>
            <td align="center">
                 <a href="https://github.com/Utkarshakr">
                     <sub><b>UTKARSHA KUMAR 😎</b></sub>
