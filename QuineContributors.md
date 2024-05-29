@@ -9,6 +9,12 @@
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/mrrahulkrr">
+                    <sub><b>Rahul Kumar 😃</b></sub>
+                    <br />
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/JhaGauravKr">
                     <sub><b>Gaurav Kumar Jha</b></sub>
                     <br />
@@ -758,6 +764,11 @@
                     <sub><b>SAYANI</b></sub>
                     <br />
                 </a> 
+           <td align="center">
+                <a href="https://github.com/Amarta113">
+                    <sub><b>Amarta Waghani</b></sub>
+                    <br />
+                </a>
             </td>
 	</tr>
     </tbody>
