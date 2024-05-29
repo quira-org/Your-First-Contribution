@@ -1,4 +1,5 @@
 # Quine Contributors 🚀👯‍♀️
+
 <table>
     <tbody>
         <tr>
@@ -41,12 +42,6 @@
             <td align="center">
                 <a href="https://github.com/Govind516">
                     <sub><b>Govind Gupta</b></sub>
-                    <br />
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/fernandezbaptiste">
-                    <sub><b>Vincent</b></sub>
                     <br />
                 </a>
             </td>
@@ -760,13 +755,26 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Sat-Star">
+                    <sub><b>Satyadeep Mishra</b></sub>
+                 <br />
+                </a> 
+             </td>
+             <td align="center">
                 <a href="https://github.com/sayani2002">
                     <sub><b>SAYANI</b></sub>
                     <br />
                 </a> 
+          </td>
            <td align="center">
                 <a href="https://github.com/Amarta113">
                     <sub><b>Amarta Waghani</b></sub>
+                    <br />
+                </a>
+            </td>
+             <td align="center">
+                <a href="https://github.com/fernandezbaptiste">
+                    <sub><b>Vincent</b></sub>
                     <br />
                 </a>
             </td>
