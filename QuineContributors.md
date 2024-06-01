@@ -783,6 +783,12 @@
                     <br />
                 </a>
             </td>
-	</tr>
+            <td align="center">
+                <a href="https://github.com/AmulyaJain2004">
+                    <sub><b>Amulya Jain</b></sub>
+                    <br />
+                </a>
+            </td>
+	    </tr>
     </tbody>
 </table>
