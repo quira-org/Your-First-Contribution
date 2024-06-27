@@ -44,7 +44,7 @@ First, click on `⭐️ star` in the right corner (to show some love 🫶💁‍
 
 Fork means you will create a copy of this repository in your own GitHub account. 💪
 
-<img width="902" alt="Screenshot 2023-06-14 at 12 57 42" src="https://github.com/quine-sh/Your-First-Contribution/assets/83458751/18a56d08-c99d-4b17-b019-1c3147e4a0f8">
+<img width="902" alt="Screenshot 2023-06-14 at 12 57 42" src="https://github.com/quira-sh/Your-First-Contribution/assets/83458751/18a56d08-c99d-4b17-b019-1c3147e4a0f8">
 
 Now that you have the copy on your own account, let's download the entire project on your local computer!
 
@@ -73,11 +73,11 @@ The entire project is now on your computer!
 
 1️⃣ On your terminal, make sure that you are in the project (or directory 😉) by running: `cd Your-First-Contribution`.
 
-2️⃣ Open the `QuineContributors.md` file in a text editor or on your favourite IDE (aka VS Code, Atom, PyCharm, Sublime etc). 
+2️⃣ Open the `QuiraContributors.md` file in a text editor or on your favourite IDE (aka VS Code, Atom, PyCharm, Sublime etc). 
 
 Here you add your name (it can be a nickname if you want to!). 
 
-3️⃣  Copy the below code, adjust it accordingly and paste it into QuineContributors.md:
+3️⃣  Copy the below code, adjust it accordingly and paste it into QuiraContributors.md:
 
 ```
             <td align="center">
