@@ -1,4 +1,4 @@
-# Quine Contributors 🚀👯‍♀️
+# Quira Contributors 🚀👯‍♀️
 
 <table>
     <tbody>
