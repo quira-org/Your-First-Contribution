@@ -785,7 +785,7 @@
             </td>
 	    <td align="center">
                 <a href="https://github.com/raulfbr">
-                    <sub><b>Raul Rodrigues</b></sub>
+                    <sub><b>RaulRodrigues</b></sub>
                     <br />
                 </a> 
             </td>
