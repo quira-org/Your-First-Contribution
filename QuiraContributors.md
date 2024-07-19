@@ -783,6 +783,12 @@
                     <br />
                 </a>
             </td>
+	    <td align="center">
+                <a href="https://github.com/raulfbr">
+                    <sub><b>Raul Rodrigues</b></sub>
+                    <br />
+                </a> 
+            </td>
 	</tr>
     </tbody>
 </table>
