@@ -784,6 +784,11 @@
                 </a>
             </td>
 	    <td align="center">
+                <a href="https://github.com/Priya-161">
+                    <sub><b>Analytical</b></sub>
+                    <br />
+                </a>
+            </td>
                 <a href="https://github.com/raulfbr">
                     <sub><b>RaulRodrigues</b></sub>
                     <br />
