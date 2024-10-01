@@ -3,12 +3,6 @@
 <table>
     <tbody>
         <tr>
-           <td align="center">
-                <a href="https://github.com/Utkarshakr">
-                    <sub><b>UTKARSHA KUMAR 😎</b></sub>
-                    <br />
-                </a> 
-            </td>
             <td align="center">
                 <a href="https://github.com/mrrahulkrr">
                     <sub><b>Rahul Kumar 😃</b></sub>
@@ -789,7 +783,21 @@
                     <br />
                 </a> 
             </td>
-	    <td align="center">
+	</tr>
+    <tr>
+      <td align="center">
+                <a href="https://github.com/bennet-schmitt">
+                    <sub><b>Bennet Schmitt</b></sub>
+                    <br />
+                </a>
+            </td>
+	           <td align="center">
+                <a href="https://github.com/Utkarshakr">
+                    <sub><b>UTKARSHA KUMAR 😎</b></sub>
+                    <br />
+                </a> 
+            </td>
+		    <td align="center">
                 <a href="https://github.com/Priya-161">
                     <sub><b>Analytical</b></sub>
                     <br />
@@ -806,14 +814,6 @@
                     <br />
                 </a>
         </td>
-	</tr>
-    <tr>
-      <td align="center">
-                <a href="https://github.com/bennet-schmitt">
-                    <sub><b>Bennet Schmitt</b></sub>
-                    <br />
-                </a>
-            </td>
     </tr>
     </tbody>
 </table>
