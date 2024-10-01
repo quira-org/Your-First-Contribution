@@ -788,7 +788,21 @@
                     <sub><b>RaulRodrigues</b></sub>
                     <br />
                 </a> 
-            </td>
+      </td>
+      <td align="center">
+                <a href="https://github.com/Pulkit426">
+                    <sub><b>Pulkit Agrawal</b></sub>
+                    <br />
+                </a>
+        </td>
 	</tr>
+    <tr>
+                 <td align="center">
+                <a href="https://github.com/bennet-schmitt">
+                    <sub><b>Bennet Schmitt</b></sub>
+                    <br />
+                </a>
+            </td>
+    </tr>
     </tbody>
 </table>
