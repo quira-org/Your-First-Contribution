@@ -783,6 +783,12 @@
                     <br />
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/ShreyaSev">
+                    <sub><b>ShreyaSev</b></sub>
+                    <br />
+                </a> 
+            </td>
 	    <td align="center">
                 <a href="https://github.com/Priya-161">
                     <sub><b>Analytical</b></sub>
@@ -802,7 +808,7 @@
         </td>
 	</tr>
     <tr>
-                 <td align="center">
+      <td align="center">
                 <a href="https://github.com/bennet-schmitt">
                     <sub><b>Bennet Schmitt</b></sub>
                     <br />
