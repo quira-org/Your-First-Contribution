@@ -783,12 +783,18 @@
                     <br />
                 </a>
             </td>
-            <td align="center">
+	    <td align="center">
+                <a href="https://github.com/raulfbr">
+                    <sub><b>RaulRodrigues</b></sub>
+                    <br />
+                </a> 
+      </td>
+      <td align="center">
                 <a href="https://github.com/Pulkit426">
                     <sub><b>Pulkit Agrawal</b></sub>
                     <br />
                 </a>
-            </td>
+        </td>
 	</tr>
     <tr>
                  <td align="center">
